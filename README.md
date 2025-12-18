@@ -9,14 +9,18 @@ I make CG tools for Maya and sometimes for Blender even though I probably won't 
 
 Learnt python in a month then created MetaHuman tool which more than 200 people starred, then I deleted it, then created it again with 81 people starring it before I deprecated it. You're welcome, and also sorry!
 
-Ex-mountaineer, looking back now I should have used rope while climbing in the Himalayas, probably wouldn't have been "ex" then.<br>I like to drive sometimes and then call myself a petrolhead, how does a carburetor work again??<br>Most of my variables are random words that don't make sense, and I can't make sense of them a few days into the project, but hey, if it compiles why bother!
+Ex-mountaineer, looking back now I should have used rope while climbing in the Himalayas, probably wouldn't have been "ex" then.<br>I like to drive sometimes and then call myself a petrolhead, how does a carburetor work again??
+
+Most of my variables are random words that don't make sense, and I can't make sense of them a few days into the project, but hey, if it compiles why bother!
+
+**Thanks for visiting my profile!!**
 
 ## Links
 
 <a href="mailto:revoconner+j5jdc38r@live.com"><img src="https://img.shields.io/badge/Email-C4956A?style=for-the-badge&logo=maildotru&logoColor=white" height="28" width="auto"></a><br>
-<a href="https://www.linkedin.com/in/revoconner"><img src="https://img.shields.io/badge/LinkedIn-5A8FAC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAwaC0xNGMtMi43NjEgMC01IDIuMjM5LTUgNXYxNGMwIDIuNzYxIDIuMjM5IDUgNSA1aDE0YzIuNzYyIDAgNS0yLjIzOSA1LTV2LTE0YzAtMi43NjEtMi4yMzgtNS01LTV6bS0xMSAxOWgtM3YtMTFoM3YxMXptLTEuNS0xMi4yNjhjLS45NjYgMC0xLjc1LS43OS0xLjc1LTEuNzY0cy43ODQtMS43NjQgMS43NS0xLjc2NCAxLjc1Ljc5IDEuNzUgMS43NjQtLjc4MyAxLjc2NC0xLjc1IDEuNzY0em0xMy41IDEyLjI2OGgtM3YtNS42MDRjMC0zLjM2OC00LTMuMTEzLTQgMHY1LjYwNGgtM3YtMTFoM3YxLjc2NWMxLjM5Ni0yLjU4NiA3LTIuNzc3IDcgMi40NzZ2Ni43NTl6Ii8+PC9zdmc+&logoColor=white" height="28" width="auto"></a><br>
 <a href="https://www.revoconner.com"><img src="https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=firefox&logoColor=white" height="30" width="auto"></a><br>
 <a href="https://www.youtube.com/@revoconner"><img src="https://img.shields.io/badge/YouTube-CC5A5A?style=for-the-badge&logo=youtube&logoColor=white" height="28" width="auto"></a><br>
+<a href="https://www.linkedin.com/in/revoconner"><img src="https://img.shields.io/badge/LinkedIn-5A8FAC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAwaC0xNGMtMi43NjEgMC01IDIuMjM5LTUgNXYxNGMwIDIuNzYxIDIuMjM5IDUgNSA1aDE0YzIuNzYyIDAgNS0yLjIzOSA1LTV2LTE0YzAtMi43NjEtMi4yMzgtNS01LTV6bS0xMSAxOWgtM3YtMTFoM3YxMXptLTEuNS0xMi4yNjhjLS45NjYgMC0xLjc1LS43OS0xLjc1LTEuNzY0cy43ODQtMS43NjQgMS43NS0xLjc2NCAxLjc1Ljc5IDEuNzUgMS43NjQtLjc4MyAxLjc2NC0xLjc1IDEuNzY0em0xMy41IDEyLjI2OGgtM3YtNS42MDRjMC0zLjM2OC00LTMuMTEzLTQgMHY1LjYwNGgtM3YtMTFoM3YxLjc2NWMxLjM5Ni0yLjU4NiA3LTIuNzc3IDcgMi40NzZ2Ni43NTl6Ii8+PC9zdmc+&logoColor=white" height="28" width="auto"></a><br>
 <a href="https://www.artstation.com/revoconner"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" height="28" width="auto"></a><br>
 
 
