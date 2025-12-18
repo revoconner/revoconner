@@ -36,7 +36,7 @@ Most of my variables are random words and comments that do not make sense a few 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="28" width="auto"><br>
 <img src="https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNNCA2bDYgNi02IDYiLz48cGF0aCBkPSJNMTIgMThoOCIvPjwvc3ZnPg==&logoColor=white" height="28" width="auto"><br>
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="28" width="auto"><br>
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" height="28" width="auto"><br>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yLjE1IDdsNy4yNiA1LjMzLTcuMjYgNS4zNCAyLjA3IDIuODMgMTAuMjktNy41Ni4wMS0xLjIyTDQuMjIgNC4xN3ptMTAuNTQgMTEuMzJ2Mi41Mmg5LjE2di0yLjUyeiIvPjwvc3ZnPg==" height="28" width="auto"><br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" width="auto"><br>
 <img src="https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white" height="28" width="auto"><br>
 <img src="https://img.shields.io/badge/x86_Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" height="28" width="auto"><br>
