@@ -54,4 +54,4 @@
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=revoconner&theme=nord&show_icons=true&card_width=500&line_height=30&rank_icon=percentile&number_format=long&hide=contribs" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=revoconner&theme=nord&show_icons=true&card_width=500&line_height=30&rank_icon=percentile&number_format=long" alt="GitHub Stats"></p>
