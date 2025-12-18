@@ -9,7 +9,9 @@ Currently mass of mass of mass of mass of mass of mass of mass of mass of mass o
 
 I make CG tools for Maya and sometimes for Blender even though I can't extrude faces in Blender. 
 
-I also wrote VS Code extensions because Microsoft can't ship a working filename search and I am too lazy to adapt to new IDE, browser extensions because Mozilla won't either and chrome won't let me block ads, backblaze exclusion tool because they can't be bothered to make a usable UI to their control panel (I am sorry Pat Patterson, you were a great help in solving the billing issue and contributing to my tool) and random utilities that solve problems I created for myself. Learnt python in a month because my employer wanted a tech artist and I was deemed the most expendable. That led to the creation of MetaHuman tool which more than 200 people starred, before I deleted it, then created it again with 81 people starring it before I deprecated it. You're welcome, and also sorry!
+I also wrote VS Code extensions because Microsoft can't ship a working filename search and I am too lazy to adapt to new IDE, browser extensions because Mozilla won't either and chrome won't let me block ads, backblaze exclusion tool because they can't be bothered to make a usable UI to their control panel (I am sorry Pat Patterson, you were a great help in solving the billing issue and contributing to my tool) and random utilities that solve problems I created for myself. 
+
+Learnt python in a month because my employer wanted a tech artist and I was deemed the most expendable. That led to the creation of MetaHuman tool which more than 200 people starred, before I deleted it, then created it again with 81 people starring it before I deprecated it. You're welcome, and also sorry!
 
 Ex-mountaineer, looking back now I should have used rope while climbing in the Himalayas, probably wouldn't have been "ex" then. I like to drive sometimes and then call myself a petrolhead, how does a carburetor work again??
 
