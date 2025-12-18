@@ -1,7 +1,7 @@
 # My name is not Slim Shady
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frevoconner&label=welcome%20visitor%20number&labelColor=%23333333&countColor=%23362663" height="36" width="auto">
 
-Tech artist from the Himalayas. It gets real cold here. Great for overclocking.Seriously, try running Threadripper 7960x overclocked to 5.3Ghz on air cooler anywhere else!
+Tech artist from the Himalayas. It gets real cold here. Great for overclocking. Seriously, try running Threadripper 7960x all cores overclocked to 5.3Ghz on air cooler anywhere else!! Also works great as a room heater!
 
 Mostly Python. Some C++, C#, NASM Assembly, and whatever language I need to argue with that week.
 
