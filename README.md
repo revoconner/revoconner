@@ -1,17 +1,19 @@
 # My name is not Slim Shady
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frevoconner&label=welcome%20visitor%20number&labelColor=%23333333&countColor=%23362663" height="36" width="auto">
 
-Tech artist from the Himalayas. It gets real cold here. Great for overclocking.<br>Seriously, try running Threadripper 7960x overclocked to 5.3Ghz on air cooler anywhere else!
+Tech artist from the Himalayas. It gets real cold here. Great for overclocking.Seriously, try running Threadripper 7960x overclocked to 5.3Ghz on air cooler anywhere else!
 
-Mostly Python. Some C++, C#, NASM Assembly, and whatever language I need to argue with that week.<br>Currently mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of... sorry, stack overflow.
+Mostly Python. Some C++, C#, NASM Assembly, and whatever language I need to argue with that week.
 
-I make CG tools for Maya and sometimes for Blender even though I probably won't be able to model anything worth a damn in Blender.<br>I also wrote VS Code extensions because Microsoft can't ship a working filename search and I am too lazy to adapt to new IDE, browser extensions because Mozilla won't either and chrome won't let me block ads, backblaze exclusion tool because they can't be bothered to make a usable UI to their control panel (I am sorry Pat Patterson, you were a great help in solving the billing issue and contributing to my tool) and random utilities that solve problems I created for myself.
+Currently mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of... sorry, stack overflow.
 
-Learnt python in a month then created MetaHuman tool which more than 200 people starred, then I deleted it, then created it again with 81 people starring it before I deprecated it. You're welcome, and also sorry!
+I make CG tools for Maya and sometimes for Blender even though I can't extrude faces in Blender. 
 
-Ex-mountaineer, looking back now I should have used rope while climbing in the Himalayas, probably wouldn't have been "ex" then.<br>I like to drive sometimes and then call myself a petrolhead, how does a carburetor work again??
+I also wrote VS Code extensions because Microsoft can't ship a working filename search and I am too lazy to adapt to new IDE, browser extensions because Mozilla won't either and chrome won't let me block ads, backblaze exclusion tool because they can't be bothered to make a usable UI to their control panel (I am sorry Pat Patterson, you were a great help in solving the billing issue and contributing to my tool) and random utilities that solve problems I created for myself. Learnt python in a month because my employer wanted a tech artist and I was deemed the most expendable. That led to the creation of MetaHuman tool which more than 200 people starred, before I deleted it, then created it again with 81 people starring it before I deprecated it. You're welcome, and also sorry!
 
-Most of my variables are random words that don't make sense, and I can't make sense of them a few days into the project, but hey, if it compiles why bother!
+Ex-mountaineer, looking back now I should have used rope while climbing in the Himalayas, probably wouldn't have been "ex" then. I like to drive sometimes and then call myself a petrolhead, how does a carburetor work again??
+
+Most of my variables are random words and comments that do not make sense a few days into the project, but hey, if it compiles (or interprets because Python) why bother!
 
 **Thanks for visiting my profile!!**
 
