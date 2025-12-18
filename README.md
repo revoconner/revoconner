@@ -1,56 +1,38 @@
-### My links
+# My name is not Slim Shady
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frevoconner&label=welcome%20visitor%20number&labelColor=%23333333&countColor=%23362663" height="36" width="auto">
 
-<table style="border: none !important;">
-<tr style="border: none !important;">
-<td align="center" style="border: none !important;">
+Tech artist from the Himalayas. It gets real cold here. Great for overclocking.<br>Seriously, try running Threadripper 7960x overclocked to 5.3Ghz on air cooler anywhere else!
 
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frevoconner&label=visitor&labelColor=%23333333&countColor=%23362663" height="36" width="auto">
+Mostly Python. Some C++, C#, NASM Assembly, and whatever language I need to argue with that week.<br>Currently mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of... sorry, stack overflow.
 
-</td>
-<td align="center" style="border: none !important;">
+I make CG tools for Maya and sometimes for Blender even though I probably won't be able to model anything worth a damn in Blender.<br>I also wrote VS Code extensions because Microsoft can't ship a working filename search and I am too lazy to adapt to new IDE, browser extensions because Mozilla won't either and chrome won't let me block ads, backblaze exclusion tool because they can't be bothered to make a usable UI to their control panel (I am sorry Pat Patterson, you were a great help in solving the billing issue and contributing to my tool) and random utilities that solve problems I created for myself.
 
-<a href="https://www.linkedin.com/in/revoconner"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="36" width="auto"></a>
+Learnt python in a month then created MetaHuman tool which more than 200 people starred, then I deleted it, then created it again with 81 people starring it before I deprecated it. You're welcome, and also sorry!
 
-</td>
-<td align="center" style="border: none !important;">
+Ex-mountaineer, looking back now I should have used rope while climbing in the Himalayas, probably wouldn't have been "ex" then.<br>I like to drive sometimes and then call myself a petrolhead, how does a carburetor work again??<br>Most of my variables are random words that don't make sense, and I can't make sense of them a few days into the project, but hey, if it compiles why bother!
 
-<a href="https://www.revoconner.com"><img src="https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=firefox&logoColor=white" height="38" width="auto"></a>
+## Links
 
-</td>
-<td align="center" style="border: none !important;">
+<a href="mailto:revoconner+j5jdc38r@live.com"><img src="https://img.shields.io/badge/Email-C4956A?style=for-the-badge&logo=maildotru&logoColor=white" height="28" width="auto"></a><br>
+<a href="https://www.linkedin.com/in/revoconner"><img src="https://img.shields.io/badge/LinkedIn-5A8FAC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAwaC0xNGMtMi43NjEgMC01IDIuMjM5LTUgNXYxNGMwIDIuNzYxIDIuMjM5IDUgNSA1aDE0YzIuNzYyIDAgNS0yLjIzOSA1LTV2LTE0YzAtMi43NjEtMi4yMzgtNS01LTV6bS0xMSAxOWgtM3YtMTFoM3YxMXptLTEuNS0xMi4yNjhjLS45NjYgMC0xLjc1LS43OS0xLjc1LTEuNzY0cy43ODQtMS43NjQgMS43NS0xLjc2NCAxLjc1Ljc5IDEuNzUgMS43NjQtLjc4MyAxLjc2NC0xLjc1IDEuNzY0em0xMy41IDEyLjI2OGgtM3YtNS42MDRjMC0zLjM2OC00LTMuMTEzLTQgMHY1LjYwNGgtM3YtMTFoM3YxLjc2NWMxLjM5Ni0yLjU4NiA3LTIuNzc3IDcgMi40NzZ2Ni43NTl6Ii8+PC9zdmc+&logoColor=white" height="28" width="auto"></a><br>
+<a href="https://www.revoconner.com"><img src="https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=firefox&logoColor=white" height="30" width="auto"></a><br>
+<a href="https://www.youtube.com/@revoconner"><img src="https://img.shields.io/badge/YouTube-CC5A5A?style=for-the-badge&logo=youtube&logoColor=white" height="28" width="auto"></a><br>
+<a href="https://www.artstation.com/revoconner"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" height="28" width="auto"></a><br>
 
-<a href="https://www.artstation.com/revoconner"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" height="36" width="auto"></a>
 
-</td>
-</tr>
-</table>
+## Languages I mostly use
 
-### Languages
+**Arranged in the order of icon width, not in the order I use them**
 
-<table style="border: none !important;">
-<tr style="border: none !important;">
-<td align="center" style="border: none !important;">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white" height="28" width="auto"><br>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="28" width="auto"><br>
+<img src="https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNNCA2bDYgNi02IDYiLz48cGF0aCBkPSJNMTIgMThoOCIvPjwvc3ZnPg==&logoColor=white" height="28" width="auto"><br>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="28" width="auto"><br>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" height="28" width="auto"><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" width="auto"><br>
+<img src="https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white" height="28" width="auto"><br>
+<img src="https://img.shields.io/badge/x86_Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" height="28" width="auto"><br>
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="36" width="auto">
-
-</td>
-<td align="center" style="border: none !important;">
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="36" width="auto">
-
-</td>
-<td align="center" style="border: none !important;">
-
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white" height="36" width="auto">
-
-</td>
-<td align="center" style="border: none !important;">
-
-<img src="https://img.shields.io/badge/x86_Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" height="36" width="auto">
-
-</td>
-</tr>
-</table>
 
 ## Stats
 
