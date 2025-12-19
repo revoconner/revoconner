@@ -15,7 +15,7 @@
   <text x="85" y="18.9" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="12" fill="#fff" font-weight="bold" text-anchor="start">FBX TO PRIMITIVE COLLIDERS</text>
 
   <foreignObject x="20" y="40" width="360" height="80">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#c5c8ce; font-family:Verdana,Geneva,DejaVu Sans,sans-serif; font-size:14px; text-align:left;">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#c5c8ce; font-family:Verdana,Geneva,DejaVu Sans,sans-serif; font-size:13px; line-height: 20px; text-align:left;">
       Unity editor script that converts imported cube meshes from DCC apps (Maya, Blender, etc.) into primitive box colliders. Replaces mesh colliders with optimized primitive box colliders.
     </div>
   </foreignObject>
