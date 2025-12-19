@@ -49,11 +49,18 @@ Most of my variables are random words and comments that do not make sense a few 
 
 
 <div align="center">
-<h2>Some standalone scripts</h2>
-<br><br><br>
-<a href="https://gist.github.com/revoconner/fe38d31ff756b167a7d27742f5eaa030"><img src="https://img.shields.io/badge/Maya-Align_Pivot_to_Components-5e81ac?style=for-the-badge&logo=autodesk&logoColor=eceff4&labelColor=2e3440" height="200" width="auto"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://gist.github.com/revoconner/d2b214f125d5915a2a2068bf403cb9e2"><img src="https://img.shields.io/badge/Maya-Flatten_to_Best_Fit_Plane-5e81ac?style=for-the-badge&logo=autodesk&logoColor=eceff4&labelColor=2e3440" height="200" width="auto"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://gist.github.com/revoconner/fd0c6da4c7bfd2de8ecd32a5ae485b46"><img src="https://img.shields.io/badge/Unity-FBX_to_Primitive_Colliders-4a6741?style=for-the-badge&logo=unity&logoColor=eceff4&labelColor=2e3440" height="200" width="auto"></a>
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Some standalone scripts</h1>  <p>____________________________</p>
+    </summary>
+  </ul>
+</div>
+<br>
+<a href="https://gist.github.com/revoconner/fe38d31ff756b167a7d27742f5eaa030"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/align-pivot-card.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://gist.github.com/revoconner/d2b214f125d5915a2a2068bf403cb9e2"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/fbx-colliders-card.svg"></a><br><br>
+<a href="https://gist.github.com/revoconner/b21bae3e6b824e2ed61d257bbfff8519"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/reddit-tampermonkey.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://gist.github.com/revoconner/b21bae3e6b824e2ed61d257bbfff8519"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/flatten-plane-card.svg"></a>
 <br><br><br>
 </div>
 
