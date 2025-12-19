@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="160" role="img" aria-label="MAYA: UV LAYOUT OBSTACLE AWARE">
+  <title>MAYA: UV LAYOUT OBSTACLE AWARE</title>
+
+  <rect x="0" y="0" width="460" height="160" fill="none" stroke="#4a4f5a" stroke-width="2" rx="4"/>
+
+  <g shape-rendering="crispEdges">
+    <rect x="1" y="1" width="74" height="28" fill="#2e3440"/>
+    <rect x="75" y="1" width="384" height="28" fill="#2d65a9"/>
+  </g>
+
+  <rect x="1" y="29" width="400" height="130" fill="#1e2129"/>
+
+  <image x="9" y="8" width="14" height="14" href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZWNlZmY0IiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QXV0b2Rlc2s8L3RpdGxlPjxwYXRoIGQ9Im0uMTI5IDIwLjIwMiAxNC43LTkuMTM2aDcuNjI1Yy4yMzUgMCAuNDQ1LjE4OC40NDUuNDQ1IDAgLjIxLS4wOTIuMzA1LS4yMS4zNzVsLTcuMjIyIDQuMzIzYy0uNDcuMjgzLS42MzMuODQ1LS42MzMgMS4yNjVsLS4wMDggMi43MjVIMjRWNC4zNjJhLjU2MS41NjEgMCAwIDAtLjU4NS0uNTYyaC04Ljc1MkwwIDEyLjg5M1YyMC4yaC4xMjl6Ii8+PC9zdmc+"/>
+  <text x="47" y="18.9" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="12" fill="#fff" font-weight="bold" text-anchor="middle">MAYA</text>
+  <text x="85" y="18.9" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="12" fill="#fff" font-weight="bold" text-anchor="start">UV LAYOUT OBSTACLE AWARE</text>
+
+  <foreignObject x="20" y="40" width="360" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#c5c8ce; font-family:Verdana,Geneva,DejaVu Sans,sans-serif; font-size:13px; line-height: 20px; text-align:left;">
+      Maya Python tool for packing UV shells around existing shells. Treats unselected shells as obstacles and packs selected shells into free space using MAXRECTS-BSSF bin packing.
+    </div>
+  </foreignObject>
+
+  <text x="20" y="145" fill="#6a7080" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10">maya_uv_layout_obstacle_aware.py</text>
+</svg>
