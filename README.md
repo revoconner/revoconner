@@ -19,11 +19,19 @@ Most of my variables are random words and comments that do not make sense a few 
 
 **Thanks for visiting my profile!!**
 
-<br><br><br>
+<br>
+
+---
+
 
 <div align="center">
-<h2> You can catch me here</h2>
-<br><br><br>
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2>Say hello!</h2>
+    </summary>
+  </ul>
+</div>
 <a href="mailto:revoconner+j5jdc38r@live.com"><img src="https://img.shields.io/badge/Email-C4956A?style=for-the-badge&logo=maildotru&logoColor=white" height="28" width="auto"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://www.revoconner.com"><img src="https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=firefox&logoColor=white" height="30" width="auto"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://www.youtube.com/@revoconner"><img src="https://img.shields.io/badge/YouTube-CC5A5A?style=for-the-badge&logo=youtube&logoColor=white" height="28" width="auto"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -32,44 +40,56 @@ Most of my variables are random words and comments that do not make sense a few 
 <br><br><br>
 </div>
 
-
-<div align="center">
-<h2> Beep Boop</h2>
-<br><br><br>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNNCA2bDYgNi02IDYiLz48cGF0aCBkPSJNMTIgMThoOCIvPjwvc3ZnPg==&logoColor=white" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yLjE1IDdsNy4yNiA1LjMzLTcuMjYgNS4zNCAyLjA3IDIuODMgMTAuMjktNy41Ni4wMS0xLjIyTDQuMjIgNC4xN3ptMTAuNTQgMTEuMzJ2Mi41Mmg5LjE2di0yLjUyeiIvPjwvc3ZnPg==" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://img.shields.io/badge/x86_Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" height="28" width="auto"><br>
-<br><br><br>
-</div>
-
+---
 
 <div align="center">
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h1>Some standalone scripts</h1>  <p>____________________________</p>
+      <h2>Computer go brrrrr!</h2>
     </summary>
   </ul>
 </div>
-<br>
-<a href="https://gist.github.com/revoconner/fe38d31ff756b167a7d27742f5eaa030"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/align-pivot-card.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://gist.github.com/revoconner/d2b214f125d5915a2a2068bf403cb9e2"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/fbx-colliders-card.svg"></a><br><br>
-<a href="https://gist.github.com/revoconner/b21bae3e6b824e2ed61d257bbfff8519"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/reddit-tampermonkey.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://gist.github.com/revoconner/b21bae3e6b824e2ed61d257bbfff8519"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/flatten-plane-card.svg"></a>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/bat-4D4D4D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNNCA2bDYgNi02IDYiLz48cGF0aCBkPSJNMTIgMThoOCIvPjwvc3ZnPg==&logoColor=white" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/py-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/Pwsh-5391FE?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yLjE1IDdsNy4yNiA1LjMzLTcuMjYgNS4zNCAyLjA3IDIuODMgMTAuMjktNy41Ni4wMS0xLjIyTDQuMjIgNC4xN3ptMTAuNTQgMTEuMzJ2Mi41Mmg5LjE2di0yLjUyeiIvPjwvc3ZnPg==" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/Ahk-334455?style=for-the-badge&logo=autohotkey&logoColor=white" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/Asm-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" height="28" width="auto"><br>
 <br><br><br>
 </div>
 
+---
 
 <div align="center">
-<h2>How well am I doing?</h2>
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2>Some standalone scripts</h2>
+    </summary>
+  </ul>
+</div>
+<a href="https://gist.github.com/revoconner/fe38d31ff756b167a7d27742f5eaa030"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/align-pivot-card.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://gist.github.com/revoconner/fd0c6da4c7bfd2de8ecd32a5ae485b46"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/fbx-colliders-card.svg"></a><br><br>
+<a href="https://gist.github.com/revoconner/b21bae3e6b824e2ed61d257bbfff8519"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/reddit-tampermonkey.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://gist.github.com/revoconner/d2b214f125d5915a2a2068bf403cb9e2"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/flatten-plane-card.svg"></a>
 <br><br><br>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=revoconner&theme=city_lights" height="auto" width="75%"><br>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=revoconner&theme=city_lights" height="auto" width="37.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=revoconner&theme=city_lights" height="auto" width="37.5%">
+</div>
+
+---
+
+<div align="center">
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2>Look at me - flauting my terrible creds!</h2>
+    </summary>
+  </ul>
+</div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=revoconner&theme=city_lights" height="auto" width="80%"><br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=revoconner&theme=city_lights" height="auto" width="40%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=revoconner&theme=city_lights" height="auto" width="40%">
 <br><br><br>
 </div>
