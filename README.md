@@ -19,29 +19,50 @@ Most of my variables are random words and comments that do not make sense a few 
 
 **Thanks for visiting my profile!!**
 
-## Links
+<br><br><br>
 
-<a href="mailto:revoconner+j5jdc38r@live.com"><img src="https://img.shields.io/badge/Email-C4956A?style=for-the-badge&logo=maildotru&logoColor=white" height="28" width="auto"></a><br>
-<a href="https://www.revoconner.com"><img src="https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=firefox&logoColor=white" height="30" width="auto"></a><br>
-<a href="https://www.youtube.com/@revoconner"><img src="https://img.shields.io/badge/YouTube-CC5A5A?style=for-the-badge&logo=youtube&logoColor=white" height="28" width="auto"></a><br>
-<a href="https://www.linkedin.com/in/revoconner"><img src="https://img.shields.io/badge/LinkedIn-5A8FAC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAwaC0xNGMtMi43NjEgMC01IDIuMjM5LTUgNXYxNGMwIDIuNzYxIDIuMjM5IDUgNSA1aDE0YzIuNzYyIDAgNS0yLjIzOSA1LTV2LTE0YzAtMi43NjEtMi4yMzgtNS01LTV6bS0xMSAxOWgtM3YtMTFoM3YxMXptLTEuNS0xMi4yNjhjLS45NjYgMC0xLjc1LS43OS0xLjc1LTEuNzY0cy43ODQtMS43NjQgMS43NS0xLjc2NCAxLjc1Ljc5IDEuNzUgMS43NjQtLjc4MyAxLjc2NC0xLjc1IDEuNzY0em0xMy41IDEyLjI2OGgtM3YtNS42MDRjMC0zLjM2OC00LTMuMTEzLTQgMHY1LjYwNGgtM3YtMTFoM3YxLjc2NWMxLjM5Ni0yLjU4NiA3LTIuNzc3IDcgMi40NzZ2Ni43NTl6Ii8+PC9zdmc+&logoColor=white" height="28" width="auto"></a><br>
+<div align="center">
+<h2> You can catch me here</h2>
+<br><br><br>
+<a href="mailto:revoconner+j5jdc38r@live.com"><img src="https://img.shields.io/badge/Email-C4956A?style=for-the-badge&logo=maildotru&logoColor=white" height="28" width="auto"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://www.revoconner.com"><img src="https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=firefox&logoColor=white" height="30" width="auto"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://www.youtube.com/@revoconner"><img src="https://img.shields.io/badge/YouTube-CC5A5A?style=for-the-badge&logo=youtube&logoColor=white" height="28" width="auto"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://www.linkedin.com/in/revoconner"><img src="https://img.shields.io/badge/LinkedIn-5A8FAC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAwaC0xNGMtMi43NjEgMC01IDIuMjM5LTUgNXYxNGMwIDIuNzYxIDIuMjM5IDUgNSA1aDE0YzIuNzYyIDAgNS0yLjIzOSA1LTV2LTE0YzAtMi43NjEtMi4yMzgtNS01LTV6bS0xMSAxOWgtM3YtMTFoM3YxMXptLTEuNS0xMi4yNjhjLS45NjYgMC0xLjc1LS43OS0xLjc1LTEuNzY0cy43ODQtMS43NjQgMS43NS0xLjc2NCAxLjc1Ljc5IDEuNzUgMS43NjQtLjc4MyAxLjc2NC0xLjc1IDEuNzY0em0xMy41IDEyLjI2OGgtM3YtNS42MDRjMC0zLjM2OC00LTMuMTEzLTQgMHY1LjYwNGgtM3YtMTFoM3YxLjc2NWMxLjM5Ni0yLjU4NiA3LTIuNzc3IDcgMi40NzZ2Ni43NTl6Ii8+PC9zdmc+&logoColor=white" height="28" width="auto"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://www.artstation.com/revoconner"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" height="28" width="auto"></a><br>
+<br><br><br>
+</div>
 
 
-## Languages I mostly use
-
-**Arranged in the order of icon width, not in the order I use them**
-
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white" height="28" width="auto"><br>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="28" width="auto"><br>
-<img src="https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNNCA2bDYgNi02IDYiLz48cGF0aCBkPSJNMTIgMThoOCIvPjwvc3ZnPg==&logoColor=white" height="28" width="auto"><br>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="28" width="auto"><br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" width="auto"><br>
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yLjE1IDdsNy4yNiA1LjMzLTcuMjYgNS4zNCAyLjA3IDIuODMgMTAuMjktNy41Ni4wMS0xLjIyTDQuMjIgNC4xN3ptMTAuNTQgMTEuMzJ2Mi41Mmg5LjE2di0yLjUyeiIvPjwvc3ZnPg==" height="28" width="auto"><br>
-<img src="https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white" height="28" width="auto"><br>
+<div align="center">
+<h2> Beep Boop</h2>
+<br><br><br>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNNCA2bDYgNi02IDYiLz48cGF0aCBkPSJNMTIgMThoOCIvPjwvc3ZnPg==&logoColor=white" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yLjE1IDdsNy4yNiA1LjMzLTcuMjYgNS4zNCAyLjA3IDIuODMgMTAuMjktNy41Ni4wMS0xLjIyTDQuMjIgNC4xN3ptMTAuNTQgMTEuMzJ2Mi41Mmg5LjE2di0yLjUyeiIvPjwvc3ZnPg==" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://img.shields.io/badge/x86_Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" height="28" width="auto"><br>
+<br><br><br>
+</div>
 
 
-## Stats
+<div align="center">
+<h2>Some standalone scripts</h2>
+<br><br><br>
+<a href="https://gist.github.com/revoconner/fe38d31ff756b167a7d27742f5eaa030"><img src="https://img.shields.io/badge/Maya-Align_Pivot_to_Components-5e81ac?style=for-the-badge&logo=autodesk&logoColor=eceff4&labelColor=2e3440" height="200" width="auto"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://gist.github.com/revoconner/d2b214f125d5915a2a2068bf403cb9e2"><img src="https://img.shields.io/badge/Maya-Flatten_to_Best_Fit_Plane-5e81ac?style=for-the-badge&logo=autodesk&logoColor=eceff4&labelColor=2e3440" height="200" width="auto"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://gist.github.com/revoconner/fd0c6da4c7bfd2de8ecd32a5ae485b46"><img src="https://img.shields.io/badge/Unity-FBX_to_Primitive_Colliders-4a6741?style=for-the-badge&logo=unity&logoColor=eceff4&labelColor=2e3440" height="200" width="auto"></a>
+<br><br><br>
+</div>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=revoconner&theme=nord&show_icons=true&card_width=500&line_height=30&rank_icon=percentile&number_format=long" alt="GitHub Stats"></p>
+
+<div align="center">
+<h2>How well am I doing?</h2>
+<br><br><br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=revoconner&theme=city_lights" height="auto" width="75%"><br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=revoconner&theme=city_lights" height="auto" width="37.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=revoconner&theme=city_lights" height="auto" width="37.5%">
+<br><br><br>
+</div>
