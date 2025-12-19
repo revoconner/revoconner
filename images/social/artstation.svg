@@ -8,7 +8,7 @@
   </g>
 
   <!-- Colored line separator -->
-  <rect x="0" y="156" width="200" height="5" fill="#c90000"/>
+  <rect x="0" y="156" width="200" height="5" fill="#ff8000"/>
 
   <!-- Bottom dark bar -->
   <rect x="0" y="162" width="200" height="38" fill="#2D2D2D"/>
