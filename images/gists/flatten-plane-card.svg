@@ -15,7 +15,7 @@
   <text x="85" y="18.9" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="12" fill="#fff" font-weight="bold" text-anchor="start">ALIGN PIVOT TO COMPONENTS</text>
   
   <foreignObject x="20" y="40" width="360" height="80">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#c5c8ce; font-family:Verdana,Geneva,DejaVu Sans,sans-serif; font-size:14px; text-align:left;">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#c5c8ce; font-family:Verdana,Geneva,DejaVu Sans,sans-serif; font-size:13px; line-height: 20px; text-align:left;">
       Maya script to align pivot orientation to the best-fit (average) plane of multiple selected components. Aligns pivot rotation perfectly to arbitrary selected vertices, faces, or edges!
     </div>
   </foreignObject>
