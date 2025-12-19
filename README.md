@@ -28,15 +28,15 @@ Most of my variables are random words and comments that do not make sense a few 
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h2>Say hello!</h2>
+      <h1>Say hello!</h1>
     </summary>
   </ul>
 </div>
-<a href="mailto:revoconner+j5jdc38r@live.com"><img src="https://img.shields.io/badge/Email-C4956A?style=for-the-badge&logo=maildotru&logoColor=white" height="28" width="auto"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://www.revoconner.com"><img src="https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=firefox&logoColor=white" height="30" width="auto"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://www.youtube.com/@revoconner"><img src="https://img.shields.io/badge/YouTube-CC5A5A?style=for-the-badge&logo=youtube&logoColor=white" height="28" width="auto"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://www.linkedin.com/in/revoconner"><img src="https://img.shields.io/badge/LinkedIn-5A8FAC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAwaC0xNGMtMi43NjEgMC01IDIuMjM5LTUgNXYxNGMwIDIuNzYxIDIuMjM5IDUgNSA1aDE0YzIuNzYyIDAgNS0yLjIzOSA1LTV2LTE0YzAtMi43NjEtMi4yMzgtNS01LTV6bS0xMSAxOWgtM3YtMTFoM3YxMXptLTEuNS0xMi4yNjhjLS45NjYgMC0xLjc1LS43OS0xLjc1LTEuNzY0cy43ODQtMS43NjQgMS43NS0xLjc2NCAxLjc1Ljc5IDEuNzUgMS43NjQtLjc4MyAxLjc2NC0xLjc1IDEuNzY0em0xMy41IDEyLjI2OGgtM3YtNS42MDRjMC0zLjM2OC00LTMuMTEzLTQgMHY1LjYwNGgtM3YtMTFoM3YxLjc2NWMxLjM5Ni0yLjU4NiA3LTIuNzc3IDcgMi40NzZ2Ni43NTl6Ii8+PC9zdmc+&logoColor=white" height="28" width="auto"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://www.artstation.com/revoconner"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" height="28" width="auto"></a><br>
+<a href="mailto:revoconner+j5jdc38r@live.com"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social/email.svg" height="150" width="auto"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.revoconner.com"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social/website.svg" height="150" width="auto"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@revoconner"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social/youtube.svg" height="150" width="auto"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/revoconner"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social/linkedin.svg" height="150" width="auto"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.artstation.com/revoconner"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social/artstation.svg" height="150" width="auto"></a><br>
 <br><br><br>
 </div>
 
@@ -74,7 +74,7 @@ Most of my variables are random words and comments that do not make sense a few 
 <a href="https://gist.github.com/revoconner/fe38d31ff756b167a7d27742f5eaa030"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/align-pivot-card.svg"></a>
 <a href="https://gist.github.com/revoconner/fd0c6da4c7bfd2de8ecd32a5ae485b46"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/fbx-colliders-card.svg"></a>
 <a href="https://gist.github.com/revoconner/b21bae3e6b824e2ed61d257bbfff8519"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/reddit-tampermonkey.svg"></a>
-<a href="https://gist.github.com/revoconner/d2b214f125d5915a2a2068bf403cb9e2"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/flatten-plane-card.svg"></a>
+<a href="https://gist.github.com/revoconner/0df178ba073a54c3600a95c80f191258"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/uv_layout_othershell_aware.svg"></a>
 <br><br><br>
 </div>
 
