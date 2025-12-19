@@ -15,7 +15,7 @@
   <text x="130" y="18.9" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="12" fill="#fff" font-weight="bold" text-anchor="start">REDDIT LEFT SIDEBAR TOGGLE</text>
 
   <foreignObject x="20" y="40" width="360" height="80">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#c5c8ce; font-family:Verdana,Geneva,DejaVu Sans,sans-serif; font-size:14px; text-align:left;">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#c5c8ce; font-family:Verdana,Geneva,DejaVu Sans,sans-serif; font-size:13px; line-height: 20px; text-align:left;">
       Tampermonkey script that hides Reddit's left sidebar by default and reveals it on hover with a smooth slide animation. Cleaner browsing experience.
     </div>
   </foreignObject>
