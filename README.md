@@ -63,7 +63,7 @@ Most of my variables are random words and comments that do not make sense a few 
 
 ---
 
-<div align="center">
+<div  align="center">
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
@@ -71,9 +71,9 @@ Most of my variables are random words and comments that do not make sense a few 
     </summary>
   </ul>
 </div>
-<a href="https://gist.github.com/revoconner/fe38d31ff756b167a7d27742f5eaa030"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/align-pivot-card.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://gist.github.com/revoconner/fd0c6da4c7bfd2de8ecd32a5ae485b46"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/fbx-colliders-card.svg"></a><br><br>
-<a href="https://gist.github.com/revoconner/b21bae3e6b824e2ed61d257bbfff8519"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/reddit-tampermonkey.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://gist.github.com/revoconner/fe38d31ff756b167a7d27742f5eaa030"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/align-pivot-card.svg"></a>
+<a href="https://gist.github.com/revoconner/fd0c6da4c7bfd2de8ecd32a5ae485b46"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/fbx-colliders-card.svg"></a>
+<a href="https://gist.github.com/revoconner/b21bae3e6b824e2ed61d257bbfff8519"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/reddit-tampermonkey.svg"></a>
 <a href="https://gist.github.com/revoconner/d2b214f125d5915a2a2068bf403cb9e2"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/flatten-plane-card.svg"></a>
 <br><br><br>
 </div>
@@ -88,8 +88,7 @@ Most of my variables are random words and comments that do not make sense a few 
     </summary>
   </ul>
 </div>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=revoconner&theme=city_lights" height="auto" width="80%"><br>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=revoconner&theme=city_lights" height="auto" width="40%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=revoconner&theme=city_lights" height="auto" width="40%">
-<br><br><br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=revoconner&theme=city_lights" width="100%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=revoconner&theme=city_lights" width="49.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=revoconner&theme=city_lights" width="49.5%">
 </div>
