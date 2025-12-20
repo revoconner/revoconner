@@ -4,8 +4,6 @@
 <b>
 Tech artist from the Himalayas. Is it beautiful you ask, of course it is, but more than that its great for overclocking!
 
-I am a tech artist , self taught (is that what people who couldn't manage college say?), by profession. 
-
 How have I ever built anything for Blender without being able to turn the viewport around properly! But then again looking back at how I even began to write code, it's a miracle in itself. Oh! You wanna hear that story? Well, I used to be a character artist for half a decade (I still am... in parts), became a senior character artist and then my employers at the time decided I was expendable and should become a tech artist in a few months along with my regular duties with no extra pay!! Yaay!!
 
 But at least it got me into this, and it's good work, so, ummm a win in the end?
