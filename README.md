@@ -153,13 +153,13 @@ Great for everyday users to sort all their photos, hundreds of thousands of phot
 </div>
 <br><br>
 <a href="mailto:revoconner+j5jdc38r@live.com"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social_alt/email.svg" height="50" width="auto"></a>
-<img src="https://github.com/revoconner/revoconner/raw/refs/heads/images/combined/separator.svg" height="auto" width="2">
+<img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/separator.svg" height="auto" width="2">
 <a href="https://www.revoconner.com"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social_alt/website.svg" height="50" width="auto"></a>
-<img src="https://github.com/revoconner/revoconner/raw/refs/heads/images/combined/separator.svg" height="auto" width="2">
+<img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/separator.svg" height="auto" width="2">
 <a href="https://www.artstation.com/revoconner"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social_alt/artstation.svg" height="50" width="auto"></a>
-<img src="https://github.com/revoconner/revoconner/raw/refs/heads/images/combined/separator.svg" height="auto" width="2">
+<img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/separator.svg" height="auto" width="2">
 <a href="https://www.youtube.com/@revoconner"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social_alt/youtube.svg" height="50" width="auto"></a>
-<img src="https://github.com/revoconner/revoconner/raw/refs/heads/images/combined/separator.svg" height="auto" width="2">
+<img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/separator.svg" height="auto" width="2">
 <a href="https://www.linkedin.com/in/revoconner"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social_alt/linkedin.svg" height="50" width="auto"></a>
 <br><br><br>
 </div>
@@ -167,7 +167,7 @@ Great for everyday users to sort all their photos, hundreds of thousands of phot
 
 
 <div align="center">
-<img src ="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/programming_dark.svg" height="auto" width="40%"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/images/combined/separator.svg" height="auto" width="10%"><img src ="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/techart_dark.svg" height="auto" width="40%">
+<img src ="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/programming_dark.svg" height="auto" width="40%"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/separator.svg" height="auto" width="10%"><img src ="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/techart_dark.svg" height="auto" width="40%">
 </div>
 
 ---
