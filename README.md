@@ -97,7 +97,7 @@ Most of my variables are random words and comments that do not make sense a few 
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h1>Look at me - flauting my terrible creds!</h1>
+      <h1>Look at me - flaunting my terrible creds!</h1>
     </summary>
   </ul>
 </div>
