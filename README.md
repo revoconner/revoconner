@@ -147,11 +147,11 @@ Great for everyday users to sort all their photos, hundreds of thousands of phot
 <br>
 
 ---
-
+<br><br><br>
 <div align="center">
-<h2>Say hello!</h2>
+<h1>Say hello!</h1>
 </div>
-<br>
+<br><br>
 <a href="mailto:revoconner+j5jdc38r@live.com"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social_alt/email.svg" height="50" width="auto"></a>
 <img src="https://github.com/revoconner/revoconner/raw/refs/heads/images/combined/separator.svg" height="auto" width="2">
 <a href="https://www.revoconner.com"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social_alt/website.svg" height="50" width="auto"></a>
@@ -167,7 +167,7 @@ Great for everyday users to sort all their photos, hundreds of thousands of phot
 
 
 <div align="center">
-<img src ="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/programming_dark.svg" height="auto" width="45%"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/images/combined/separator.svg" height="auto" width="5%"><img src ="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/programming_dark.svg" height="auto" width="45%">
+<img src ="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/programming_dark.svg" height="auto" width="40%"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/images/combined/separator.svg" height="auto" width="10%"><img src ="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/techart_dark.svg" height="auto" width="40%">
 </div>
 
 ---
