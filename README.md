@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frevoconner&label=Hello%20visitor%20number&labelColor=%23333333&countColor=%23362663" height="auto" width="430"><br><br><br>
 <div align="left">
+<b>
 Tech artist from the Himalayas. Is it beautiful you ask, of course it is, but more than that its great for overclocking!
 
 I am a tech artist , self taught (is that what people who couldn't manage college say?), by profession. 
@@ -10,15 +11,9 @@ How have I ever built anything for Blender without being able to turn the viewpo
 But at least it got me into this, and it's good work, so, ummm a win in the end?
 
 Ex-mountaineer, looking back now I should have used rope while climbing in the Himalayas, probably wouldn't have been "ex" then. I like to drive sometimes and then call myself a petrolhead, how does a carburetor work again??
+</b></b></b>
+<h2>Some of the work I am proud of doing as a tech artist include: </h2>
 
-<div align="left">
-<div id="user-content-toc">
-  <ul align="left" style="list-style: none;">
-    <summary>
-      <h2>Some of the work I am proud of doing as a tech artist include: </h2>
-    </summary>
-  </ul>
-</div>
 
 <details>
 <summary><h3>Listed here as a summary of each work, expand to read.</h3></summary>
@@ -154,17 +149,17 @@ Great for everyday users to sort all their photos, hundreds of thousands of phot
 ---
 
 <div align="center">
-  <h3>Say hello!</h3>
+<h2>Say hello!</h2>
 </div>
 <br>
 <a href="mailto:revoconner+j5jdc38r@live.com"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social_alt/email.svg" height="50" width="auto"></a>
-<img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/separator.svg" height="auto" width="auto">
+<img src="https://github.com/revoconner/revoconner/raw/refs/heads/images/combined/separator.svg" height="auto" width="2">
 <a href="https://www.revoconner.com"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social_alt/website.svg" height="50" width="auto"></a>
-<img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/separator.svg" height="auto" width="auto">
+<img src="https://github.com/revoconner/revoconner/raw/refs/heads/images/combined/separator.svg" height="auto" width="2">
 <a href="https://www.artstation.com/revoconner"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social_alt/artstation.svg" height="50" width="auto"></a>
-<img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/separator.svg" height="auto" width="auto">
+<img src="https://github.com/revoconner/revoconner/raw/refs/heads/images/combined/separator.svg" height="auto" width="2">
 <a href="https://www.youtube.com/@revoconner"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social_alt/youtube.svg" height="50" width="auto"></a>
-<img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/separator.svg" height="auto" width="auto">
+<img src="https://github.com/revoconner/revoconner/raw/refs/heads/images/combined/separator.svg" height="auto" width="2">
 <a href="https://www.linkedin.com/in/revoconner"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social_alt/linkedin.svg" height="50" width="auto"></a>
 <br><br><br>
 </div>
@@ -172,7 +167,7 @@ Great for everyday users to sort all their photos, hundreds of thousands of phot
 
 
 <div align="center">
-<img src ="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/programming_dark.svg" height="auto" width="45%"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/separator.svg" height="auto" width="auto"><img src ="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/programming_dark.svg" height="auto" width="45%">
+<img src ="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/programming_dark.svg" height="auto" width="45%"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/images/combined/separator.svg" height="auto" width="5%"><img src ="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/programming_dark.svg" height="auto" width="45%">
 </div>
 
 ---
