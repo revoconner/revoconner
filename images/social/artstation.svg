@@ -1,20 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
-  <!-- Main icon area -->
-  <rect x="0" y="0" width="200" height="156" fill="#008fd700"/>
+  <g transform="translate(25, 25) scale(0.75)">
+    <!-- Main icon area -->
+    <rect x="0" y="0" width="200" height="156" fill="#008fd700"/>
 
-  <!-- ArtStation icon from SimpleIcons -->
-  <g transform="translate(34, 20) scale(5.3)">
-    <path fill="#5ed1ff" d="M0 17.723l2.027 3.505h.001a2.424 2.424 0 0 0 2.164 1.333h13.457l-2.792-4.838H0zm24 .025c0-.484-.143-.935-.388-1.314L15.728 2.728a2.424 2.424 0 0 0-2.142-1.289H9.419L21.598 22.54l1.92-3.325c.378-.637.482-.919.482-1.467zm-11.129-3.462L7.428 4.858l-5.444 9.428h10.887z"/>
+    <g transform="translate(34, 20) scale(5.3)">
+      <path fill="#5ed1ff" d="M0 17.723l2.027 3.505h.001a2.424 2.424 0 0 0 2.164 1.333h13.457l-2.792-4.838H0zm24 .025c0-.484-.143-.935-.388-1.314L15.728 2.728a2.424 2.424 0 0 0-2.142-1.289H9.419L21.598 22.54l1.92-3.325c.378-.637.482-.919.482-1.467zm-11.129-3.462L7.428 4.858l-5.444 9.428h10.887z"/>
+    </g>
+
+    <!-- Colored line separator -->
+    <rect x="0" y="157" width="200" height="5" fill="#5ed1ff"/>
+
+    <!-- Bottom dark bar -->
+    <rect x="0" y="162" width="200" height="38" fill="#2D2D2D00"/>
+
+    <!-- Text label -->
+    <text x="100" y="188" text-anchor="middle" fill="white" font-family="Verdana, Arial, sans-serif" font-size="22" font-weight="bold" letter-spacing="2">ARTSTATION</text>
   </g>
-
-  <!-- Colored line separator -->
-  <rect x="0" y="157" width="200" height="5" fill="#5ed1ff"/>
-
-  <!-- Bottom dark bar -->
-  <rect x="0" y="162" width="200" height="38" fill="#2D2D2D"/>
-
-  <!-- Text label -->
-  <text x="100" y="188" text-anchor="middle" fill="white" font-family="Verdana, Arial, sans-serif" font-size="22" font-weight="bold" letter-spacing="2">ARTSTATION</text>
 </svg>
 
 
