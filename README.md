@@ -42,7 +42,7 @@ Most of my variables are random words and comments that do not make sense a few 
     </summary>
   </ul>
 </div>
-  <br>
+<br>
 <a href="mailto:revoconner+j5jdc38r@live.com"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social_alt/email.svg" height="50" width="auto"></a>
 <a href="https://www.revoconner.com"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social_alt/website.svg" height="50" width="auto"></a>
 <a href="https://www.artstation.com/revoconner"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social_alt/artstation.svg" height="50" width="auto"></a>
