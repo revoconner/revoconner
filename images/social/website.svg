@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
   <rect x="0" y="0" width="200" height="156" fill="#2fedc100"/>
 
-  <g transform="translate(36, 14) scale(2)">
+  <g transform="translate(20, 3) scale(2.4)">
     <path stroke="#2fedc1" stroke-width="3" fill="none" d="M39.93,55.72A24.86,24.86,0,1,1,56.86,32.15a37.24,37.24,0,0,1-.73,6"/>
     <path stroke="#2fedc1" stroke-width="3" fill="none" d="M37.86,51.1A47,47,0,0,1,32,56.7"/>
     <path stroke="#2fedc1" stroke-width="3" fill="none" d="M32,7A34.14,34.14,0,0,1,43.57,30a34.07,34.07,0,0,1,.09,4.85"/>
@@ -19,3 +19,4 @@
 
   <text x="100" y="188" text-anchor="middle" fill="white" font-family="Verdana, Arial, sans-serif" font-size="22" font-weight="bold" letter-spacing="2">WEBSITE</text>
 </svg>
+
