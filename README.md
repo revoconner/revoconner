@@ -147,7 +147,7 @@ Great for everyday users to sort all their photos, hundreds of thousands of phot
 <br>
 
 ---
-<br><br><br>
+<br>
 <div align="center">
 <h1>Say hello!</h1>
 </div>
@@ -160,9 +160,9 @@ Great for everyday users to sort all their photos, hundreds of thousands of phot
 </div>
 <br>
 
-<div align="center">
-<h1>Some things I know</h1>
-</div>
+---
+
+
 <br><br>
 <div align="center">
 <img src ="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/programming_dark.svg" height="auto" width="40%"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/separator.svg" height="auto" width="10%"><img src ="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/techart_dark.svg" height="auto" width="40%">
