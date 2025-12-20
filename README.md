@@ -61,11 +61,11 @@ Most of my variables are random words and comments that do not make sense a few 
     </summary>
   </ul>
 </div>
-  <br>
-<a href="https://gist.github.com/revoconner/fe38d31ff756b167a7d27742f5eaa030"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/align-pivot-card.svg"></a>
-<a href="https://gist.github.com/revoconner/fd0c6da4c7bfd2de8ecd32a5ae485b46"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/fbx-colliders-card.svg"></a>
-<a href="https://gist.github.com/revoconner/b21bae3e6b824e2ed61d257bbfff8519"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/reddit-tampermonkey.svg"></a>
-<a href="https://gist.github.com/revoconner/0df178ba073a54c3600a95c80f191258"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/uv_layout_othershell_aware.svg"></a>
+<br>
+<a href="https://gist.github.com/revoconner/0df178ba073a54c3600a95c80f191258"><img height="auto" width="400" src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/uv_layout_othershell_aware.svg"></a>
+<a href="https://gist.github.com/revoconner/fd0c6da4c7bfd2de8ecd32a5ae485b46"><img height="auto" width="400" src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/fbx-colliders-card.svg"></a>
+<a href="https://gist.github.com/revoconner/b21bae3e6b824e2ed61d257bbfff8519"><img height="auto" width="400" src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/reddit-tampermonkey.svg"></a>
+</a><a href="https://gist.github.com/revoconner/fe38d31ff756b167a7d27742f5eaa030"><img height="auto" width="400" src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/align-pivot-card.svg"></a>
 <br><br><br>
 </div>
 
