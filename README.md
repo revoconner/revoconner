@@ -11,9 +11,7 @@
 <div align="left">
 Tech artist from the Himalayas. It gets real cold here. Great for overclocking. Seriously, try running Threadripper 7960x all cores overclocked to 5.3Ghz on air cooler anywhere else!! Also works great as a room heater!
 
-Mostly Python. Some C++, C#, NASM Assembly, and whatever language I need to argue with that week.
-
-Currently mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of mass of... sorry, stack overflow.
+Mostly Python. Some C++, C#, and a tiny bit of Assembly and JS, and whatever language I need to argue with that week.
 
 I make CG tools for Maya and sometimes for Blender even though I can't extrude faces in Blender. 
 
@@ -91,18 +89,4 @@ Most of my variables are random words and comments that do not make sense a few 
 <br><br><br>
 </div>
 
----
 
-<div align="center">
-<div id="user-content-toc">
-  <ul align="center" style="list-style: none;">
-    <summary>
-      <h1>Look at me - flaunting my terrible creds!</h1>
-    </summary>
-  </ul>
-</div>
-  <br>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=revoconner&theme=city_lights" width="100%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=revoconner&theme=city_lights" width="49.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=revoconner&theme=city_lights" width="49.5%">
-</div>
