@@ -3,12 +3,12 @@
 <div align="left">
 <b>
 Tech artist from the Himalayas. Is it beautiful you ask, of course it is, but more than that its great for overclocking!
+<br><br>
+How have I ever built anything for Blender without being able to turn the viewport around properly! But then again looking back at how I even began to write code, it's a miracle in itself. Oh! You wanna hear that story? Well, I used to be a character artist for half a decade (I still am... in parts), became a senior character artist and then my employers at the time decided I was expendable and should become a tech artist in a few months along with my regular duties with no extra pay!! Yaay!!<br><br>
 
-How have I ever built anything for Blender without being able to turn the viewport around properly! But then again looking back at how I even began to write code, it's a miracle in itself. Oh! You wanna hear that story? Well, I used to be a character artist for half a decade (I still am... in parts), became a senior character artist and then my employers at the time decided I was expendable and should become a tech artist in a few months along with my regular duties with no extra pay!! Yaay!!
+But at least it got me into this, and it's good work, so, ummm a win in the end?<br><br>
 
-But at least it got me into this, and it's good work, so, ummm a win in the end?
-
-Ex-mountaineer, looking back now I should have used rope while climbing in the Himalayas, probably wouldn't have been "ex" then. I like to drive sometimes and then call myself a petrolhead, how does a carburetor work again??
+Ex-mountaineer, looking back now I should have used rope while climbing in the Himalayas, probably wouldn't have been "ex" then. I like to drive sometimes and then call myself a petrolhead, how does a carburetor work again??<br><br>
 </b></b></b>
 <h2>Some of the work I am proud of doing as a tech artist include: </h2>
 
