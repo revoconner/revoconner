@@ -153,14 +153,17 @@ Great for everyday users to sort all their photos, hundreds of thousands of phot
 </div>
 <br><br>
 <div align="center">
-<a href="mailto:revoconner+j5jdc38r@live.com"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social_alt/email.svg" height="50" width="auto"></a><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/separator.svg" height="auto" width="2"><a href="https://www.revoconner.com"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social_alt/website.svg" height="50" width="auto"></a><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/separator.svg" height="auto" width="2"><a href="https://www.artstation.com/revoconner"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social_alt/artstation.svg" height="50" width="auto"></a><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/separator.svg" height="auto" width="2"><a href="https://www.youtube.com/@revoconner"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social_alt/youtube.svg" height="50" width="auto"></a>
-<img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/separator.svg" height="auto" width="2"><a href="https://www.linkedin.com/in/revoconner"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social_alt/linkedin.svg" height="50" width="auto"></a>
+<a href="mailto:revoconner+j5jdc38r@live.com"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social_alt/email.svg" height="auto" width="75"></a><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/separator.svg" height="auto" width="5%"><a href="https://www.revoconner.com"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social_alt/website.svg" height="auto" width="75"></a><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/separator.svg" height="auto" width="5%"><a href="https://www.artstation.com/revoconner"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social_alt/artstation.svg" height="auto" width="75"></a><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/separator.svg" height="auto" width="5%"><a href="https://www.youtube.com/@revoconner"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social_alt/youtube.svg" height="auto" width="75"></a>
+<img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/separator.svg" height="auto" width="5%"><a href="https://www.linkedin.com/in/revoconner"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/social_alt/linkedin.svg" height="auto" width="75"></a>
 </div>
 <br><br><br>
 </div>
 <br>
 
-
+<div align="center">
+<h1>Some things I know</h1>
+</div>
+<br><br>
 <div align="center">
 <img src ="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/programming_dark.svg" height="auto" width="40%"><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/separator.svg" height="auto" width="10%"><img src ="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/techart_dark.svg" height="auto" width="40%">
 </div>
@@ -180,28 +183,6 @@ Great for everyday users to sort all their photos, hundreds of thousands of phot
 <a href="https://gist.github.com/revoconner/fd0c6da4c7bfd2de8ecd32a5ae485b46"><img height="auto" width="400" src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/fbx-colliders-card.svg"></a>
 <a href="https://gist.github.com/revoconner/b21bae3e6b824e2ed61d257bbfff8519"><img height="auto" width="400" src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/reddit-tampermonkey.svg"></a>
 </a><a href="https://gist.github.com/revoconner/fe38d31ff756b167a7d27742f5eaa030"><img height="auto" width="400" src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/gists/align-pivot-card.svg"></a>
-<br><br><br>
-</div>
-
----
-
-<div align="center">
-<div id="user-content-toc">
-  <ul align="center" style="list-style: none;">
-    <summary>
-      <h1>Computer go brrrrr!</h1>
-    </summary>
-  </ul>
-</div>
-  <br>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://img.shields.io/badge/bat-4D4D4D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNNCA2bDYgNi02IDYiLz48cGF0aCBkPSJNMTIgMThoOCIvPjwvc3ZnPg==&logoColor=white" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://img.shields.io/badge/py-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://img.shields.io/badge/Pwsh-5391FE?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yLjE1IDdsNy4yNiA1LjMzLTcuMjYgNS4zNCAyLjA3IDIuODMgMTAuMjktNy41Ni4wMS0xLjIyTDQuMjIgNC4xN3ptMTAuNTQgMTEuMzJ2Mi41Mmg5LjE2di0yLjUyeiIvPjwvc3ZnPg==" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://img.shields.io/badge/Ahk-334455?style=for-the-badge&logo=autohotkey&logoColor=white" height="28" width="auto">&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://img.shields.io/badge/Asm-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" height="28" width="auto"><br>
 <br><br><br>
 </div>
 
