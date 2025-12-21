@@ -10,11 +10,11 @@ But at least it got me into this, and it's good work, so, ummm a win in the end?
 
 Ex-mountaineer, looking back now I should have used rope while climbing in the Himalayas, probably wouldn't have been "ex" then. I like to drive sometimes and then call myself a petrolhead, how does a carburetor work again??<br><br>
 </b></b></b>
-<h2>Some of the work I am proud of doing as a tech artist include: </h2>
+<h2>Some of the work I really enjoyed doing as a tech artist: </h2>
 
 
 <details>
-<summary><h3>Listed here as a summary of each work, expand to read.</h3></summary>
+<summary><h3>Click to expand</h3></summary>
 
 <ul align="left">
 <details>
@@ -103,15 +103,11 @@ Just like the reference warning you get when you delete an asset in Unreal that 
 At spawn uses matrices to check the world transform of objects inside a radius from the point of spawn. Then uses shader's alpha to cull the particle if it touches an object like walls, or floors etc.
 </details>
 </ul>
+</details>
 
-<div align="left">
-<div id="user-content-toc">
-  <ul align="left" style="list-style: none;">
-    <summary>
-      <h3>Non tech art related personal project:</h3>
-    </summary>
-  </ul>
-</div>
+<h2>Some non-tech art related projects: </h2>
+<details>
+<summary><h3>Click to expand</h3></summary>
 
 <ul align="left">
 <details>
