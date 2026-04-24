@@ -2,14 +2,16 @@
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frevoconner&label=Hello%20visitor%20number&labelColor=%23333333&countColor=%23362663" height="auto" width="430"><br><br><br>
 <div align="left">
 <b>
-Tech artist from the Himalayas. Is it beautiful you ask, of course it is, but more than that its great for overclocking!
+Tech artist from the Himalayas. Is it beautiful you ask, of course it is, but more than that, the cold air its great for overclocking!
 <br><br>
-How have I ever built anything for Blender without being able to turn the viewport around properly! But then most of the codes I have written so far, have been a work of miracle never to be touched again. <br>
-
 Ex-mountaineer, looking back now I should have used rope while climbing in the Himalayas, probably wouldn't have been "ex" then. <br><br>
+<br><br>
+<div align="center">
+<h4>If you like my work, you can buy me a coffee. I might use that to get tea instead!</h4><br>
+<img width="50" height="auto" alt="image" src="https://github.com/user-attachments/assets/a692c5b0-d635-465b-bc5e-0c20fe46a92b" /></a><br>
+<a href="https://paypal.me/revoconner"><b>paypal.me/revoconner</b></a>
+</div>
 
-
-<br>
 <div align="center">
 <h1>Say hello!</h1>
 </div>
