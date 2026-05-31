@@ -1,0 +1,8 @@
+﻿"Category","In Planning","Work In Progress","Actively Maintained","Matured (Only Security Patches)","Matured (No Further Development)","Abandoned"
+"General Use Application",0,1,1,0,2,1
+"CGI Artist Plugin/Script/Tools",1,0,5,1,22,3
+"Game Engine Plugin/Script",1,0,0,1,5,0
+"Browser Extension",0,0,1,1,0,0
+"Development Tools",0,0,2,1,1,1
+"SaaS/Web services",1,0,1,0,0,0
+"Others",0,0,0,0,2,3
