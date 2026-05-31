@@ -1,25 +1,19 @@
-<div align="center">
+
 <img width="100%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/banner/top_banner.svg" >
 <br><br>
-<h3>Tech artist from the Himalayas.<br><br>
-An artist turned dev, I try to fill the gap of UX in FOSS</h3>
-</div>
 
-<br><br>
+<h3>Tech artist from the Himalayas. I try to fill the gap between plumbing and porcelain</h3>
 
-<div align="center">
+<div algin="center">
 <a href="https://github.com/users/revoconner/projects/6/views/4">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/project_button/button_dev_state.svg">
-<img width="50%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/project_button_alt/button_dev_state.svg">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/project_button/button_dev_state.svg">
+<img width="40%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/project_button_alt/button_dev_state.svg">
 </picture></a>
-
 <a href="https://github.com/users/revoconner/projects/6/views/5">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/project_button/button_all_work.svg">
-<img width="50%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/project_button_alt/button_all_work.svg">
-</picture>
-</a>
+<img width="40%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/project_button_alt/button_all_work.svg">
+</picture></a>
 </div>
 
 <br><br>

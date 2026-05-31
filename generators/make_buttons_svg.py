@@ -23,7 +23,7 @@ buttons = [
 ]
 
 bg = "#21283000"
-text_color = "#ff58ae"   # GitHub link blue, ~5.9:1 contrast on bg (WCAG AA)
+text_color = "#a155ff"   # GitHub link blue, ~5.9:1 contrast on bg (WCAG AA)
 # alt text color
 text_color_alt = "#007fe0"
 
