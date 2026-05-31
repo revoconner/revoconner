@@ -22,8 +22,11 @@ buttons = [
     ("My repositories categorised ↗", "button_all_work.svg"),
 ]
 
-bg = "#212830"
+bg = "#21283000"
 text_color = "#58a6ff"   # GitHub link blue, ~5.9:1 contrast on bg (WCAG AA)
+# alt text color
+text_color_alt = "#007fe0"
+
 border_lighten = 0.18    # how much brighter the border is than bg
 font_size = 30
 pad_x, pad_y = 28, 16
@@ -57,9 +60,11 @@ def measure(text):
     return ext.width, ext.height
 
 H = measure(ref)[1] + 2 * pad_y
+W = max(measure(text)[0] for text, _ in buttons) + 2 * pad_x  # widest label sets the shared width
 
-def make_button(text, filename):
-    W = measure(text)[0] + 2 * pad_x
+root = os.path.dirname(base)
+
+def make_button(text, filename, color, out_dir):
     fig = plt.figure(figsize=(W / dpi, H / dpi), dpi=dpi)
     ax = fig.add_axes([0, 0, 1, 1])
     ax.set_xlim(0, W)
@@ -73,11 +78,18 @@ def make_button(text, filename):
     box.set_mutation_scale(1.0)
     ax.add_patch(box)
     ax.text(W / 2, H / 2, text, ha="center", va="center_baseline",
-            fontproperties=fp, color=text_color)
+            fontproperties=fp, color=color)
 
-    fig.savefig(os.path.join(base, filename), format="svg", transparent=True, pad_inches=0)
+    out = os.path.join(out_dir, filename)
+    fig.savefig(out, format="svg", transparent=True, pad_inches=0)
     plt.close(fig)
-    print("Saved", filename)
+    print("Saved", out)
 
-for text, filename in buttons:
-    make_button(text, filename)
+variants = [
+    (text_color, os.path.join(root, "images", "project_button")),
+    (text_color_alt, os.path.join(root, "images", "project_button_alt")),
+]
+
+for color, out_dir in variants:
+    for text, filename in buttons:
+        make_button(text, filename, color, out_dir)

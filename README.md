@@ -5,9 +5,24 @@
 An artist turned dev, I try to fill the gap of UX in FOSS</b>
 <br><br>
 
+<div align="center">
+<a href="https://github.com/users/revoconner/projects/6/views/4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/social/chart.svg">
+    <img alt="charts repo status" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/social_alt/chart.svg">
+  </picture>
+</a><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/separator.svg" height="auto" width="5%">
+<a href="https://github.com/users/revoconner/projects/6/views/5">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/social/chart.svg">
+    <img alt="charts repo status" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/social_alt/chart.svg">
+  </picture>
+</a>
+</div>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/main/images/social/chart.png">
-  <img alt="charts repo status" src="https://raw.githubusercontent.com/revoconner/revoconner/main/images/social/chart.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/social/chart.svg">
+  <img alt="charts repo status" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/social_alt/chart.svg">
 </picture>
 </div>
 <br><br>
