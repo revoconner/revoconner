@@ -6,13 +6,14 @@
 </div>
 
 <br><br>
-
+<br>
+<img width="100%" height="auto" src="images/divider.svg">
+<br>
 <div align="center">
-
 <a href="https://github.com/users/revoconner/projects/6/views/4">
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/project_button/button_dev_state.svg">
 <img width="40%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/project_button_alt/button_dev_state.svg">
-</picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/separator.svg"><img alt="sep" width="auto" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/separator.svg">
+</picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/separator.svg"><img alt="sep" width="19%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/separator.svg">
 </picture>
 <a href="https://github.com/users/revoconner/projects/6/views/5">
 <picture>
@@ -48,4 +49,3 @@
 <br><br><br>
 </div>
 <br>
-<img width="100%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/banner/bottom_banner.svg" >
