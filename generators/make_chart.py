@@ -5,9 +5,10 @@ import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
 
 base = os.path.dirname(os.path.abspath(__file__))
+root = os.path.dirname(base)
 csv_path = os.path.join(base, "chart.csv")
-out_path = os.path.join(base, "chart.svg")
-out_path_alt = os.path.join(base, "chart_alt.svg")
+out_path = os.path.join(root, "images", "social", "chart.svg")
+out_path_alt = os.path.join(root, "images", "social_alt", "chart.svg")
 
 with open(csv_path, newline="", encoding="utf-8") as f:
     rows = list(csv.reader(f))
