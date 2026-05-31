@@ -5,13 +5,15 @@
 An artist turned dev, I try to fill the gap of UX in FOSS</b>
 <br><br>
 
-<img width="100%" height="auto" alt="repo data graph" src="https://github.com/revoconner/revoconner/raw/06b2604eadb173c6e6d2348836b5b7f8fc1ebba3/images/gists/chart.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/main/images/social/chart.png">
+  <img alt="charts repo status" src="https://raw.githubusercontent.com/revoconner/revoconner/main/images/social/chart.png">
+</picture>
 </div>
 <br><br>
 
 <div align="center">
-<h4>If you like my work, you can buy me a coffee. I might use that to get tea instead!</h4><br>
-<img width="25" height="auto" alt="image" src="https://github.com/user-attachments/assets/a692c5b0-d635-465b-bc5e-0c20fe46a92b" /></a><br>
+<h4>Drop in and say hello</h4><br>
 <a href="https://paypal.me/revoconner"><b>paypal.me/revoconner</b></a>
 </div>
 

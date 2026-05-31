@@ -33,7 +33,7 @@ colors = ["#369acc", "#4fa84b", "#df3065"]
 bg, fg, grid = "#21283000", "#acb3be", "#373a3e"
 
 #alt color
-colors_alt = ["#369acc", "#4fa84b", "#df3065"]
+colors_alt = ["#1177b6", "#209f19", "#cd4a12"]
 bg_alt, fg_alt, grid_alt = "#21283000", "#1c1c1c", "#747a82"
 
 n_cat, n_series = len(categories), len(statuses)
