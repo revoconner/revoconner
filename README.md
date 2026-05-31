@@ -10,8 +10,8 @@ An artist turned dev, I try to fill the gap of UX in FOSS</h3>
 <div align="center">
 <a href="https://github.com/users/revoconner/projects/6/views/4">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/project_button/button_all_work.svg">
-<img width="40%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/project_button_alt/button_all_work.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/project_button/button_dev_state.svg">
+<img width="40%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/project_button_alt/button_dev_state.svg">
 </picture></a><picture><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/separator.svg" height="auto" width="5%"></picture>
 <a href="https://github.com/users/revoconner/projects/6/views/5">
 <picture>
