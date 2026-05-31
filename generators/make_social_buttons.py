@@ -30,9 +30,9 @@ buttons = [
 ]
 
 bg = "#21283015"
-text_color = "#ffa53e"   # GitHub link blue, ~5.9:1 contrast on bg (WCAG AA)
+text_color = "#58a0ff"   # GitHub link blue, ~5.9:1 contrast on bg (WCAG AA)
 text_color_alt = "#007fe0"
-icon_color = "#58a0ff"   # forced on every icon, overrides their source fill
+icon_color = "#ffa53e"   # forced on every icon, overrides their source fill
 
 border_lighten = 0.18    # how much brighter the border is than bg
 font_size = 22           # text label, ~75% of the icon size

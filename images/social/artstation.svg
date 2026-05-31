@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-05-31T11:44:41.027977</dc:date>
+    <dc:date>2026-05-31T11:47:46.755150</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -41,11 +41,11 @@ Q 2.5 2.5 2.5 16.5
 L 2.5 45.84375 
 Q 2.5 59.84375 16.5 59.84375 
 z
-" clip-path="url(#pf19e83f991)" style="fill: #212830; fill-opacity: 0.082353; stroke: #494f55; stroke-width: 3; stroke-linejoin: miter"/>
+" clip-path="url(#p0b48cc3183)" style="fill: #212830; fill-opacity: 0.082353; stroke: #494f55; stroke-width: 3; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
     <!-- Artstation -->
-    <g style="fill: #ffa53e" transform="translate(74.34375 37.101562) scale(0.22 -0.22)">
+    <g style="fill: #58a0ff" transform="translate(74.34375 37.101562) scale(0.22 -0.22)">
      <defs>
       <path id="FiraCodeNFP-Ret-41" d="M 2809 1126 
 L 1096 1126 
@@ -260,10 +260,10 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="pf19e83f991">
+  <clipPath id="p0b48cc3183">
    <rect x="0" y="0" width="237.46875" height="62.34375"/>
   </clipPath>
  </defs>
-<svg x="28.000" y="16.000" width="30.344" height="30.344" viewBox="0.0 0.0 32.0 32.0" preserveAspectRatio="xMidYMid meet" overflow="visible" fill="#58a0ff">
+<svg x="28.000" y="16.000" width="30.344" height="30.344" viewBox="0.0 0.0 32.0 32.0" preserveAspectRatio="xMidYMid meet" overflow="visible" fill="#ffa53e">
   <path d="M0 23.63l2.703 4.672c0.552 1.094 1.667 1.781 2.885 1.781h17.943l-3.724-6.453zM32 23.661c0-0.641-0.193-1.245-0.516-1.75l-10.516-18.276c-0.557-1.057-1.656-1.719-2.854-1.719h-5.557l16.24 28.135 2.563-4.432c0.5-0.849 0.641-1.224 0.641-1.958zM17.161 19.047l-7.255-12.568-7.26 12.568z"/>
 </svg></svg>
