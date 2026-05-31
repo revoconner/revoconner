@@ -1,30 +1,36 @@
 <div align="center">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frevoconner&label=Hello%20visitor%20number&labelColor=%23333333&countColor=%23362663" height="auto" width="250"><br><br><br>
-<div align="center">
-<b>Tech artist from the Himalayas.<br>
-An artist turned dev, I try to fill the gap of UX in FOSS</b>
+<img width="100%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/banner/top_banner.svg" >
+<br><br>
+<h3>Tech artist from the Himalayas.<br><br>
+An artist turned dev, I try to fill the gap of UX in FOSS</h3>
+</div>
+
 <br><br>
 
 <div align="center">
 <a href="https://github.com/users/revoconner/projects/6/views/4">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/social/chart.svg">
-    <img alt="charts repo status" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/social_alt/chart.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/project_button/button_all_work.svg">
+    <img alt="charts repo status" width="40%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/project_button_alt/button_all_work.svg">
   </picture>
 </a><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/separator.svg" height="auto" width="5%">
 <a href="https://github.com/users/revoconner/projects/6/views/5">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/social/chart.svg">
-    <img alt="charts repo status" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/social_alt/chart.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/project_button/button_all_work.svg">
+    <img alt="charts repo status" width="40%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/project_button_alt/button_all_work.svg">
   </picture>
 </a>
 </div>
 
+<br><br>
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/social/chart.svg">
-  <img alt="charts repo status" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/social_alt/chart.svg">
+  <img width="90%" height="auto" alt="charts repo status" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/social_alt/chart.svg">
 </picture>
 </div>
+
 <br><br>
 
 <div align="center">
