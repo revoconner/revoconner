@@ -11,15 +11,15 @@ base = os.path.dirname(os.path.abspath(__file__))
 
 # Fira Code - point this at your install if the path differs
 font_candidates = [
-    r"C:\Windows\Fonts\FiraCodeNerdFont-Regular.ttf",
-    os.path.expandvars(r"%LOCALAPPDATA%\Microsoft\Windows\Fonts\FiraCodeNerdFont-Regular.ttf"),
+    r"C:\Windows\Fonts\JetBrainsMono-VariableFont_wght.ttf",
+    os.path.expandvars(r"%LOCALAPPDATA%\Microsoft\Windows\Fonts\JetBrainsMono-VariableFont_wght.ttf"),
     r"C:\Windows\Fonts\FiraCodeNerdFont-VariableFont_wght.ttf",
-    os.path.expandvars(r"%LOCALAPPDATA%\Microsoft\Windows\Fonts\FiraCodeNerdFont-VariableFont_wght.ttf"),
+    os.path.expandvars(r"%LOCALAPPDATA%\Microsoft\Windows\Fonts\JetBrainsMono-VariableFont_wght.ttf"),
 ]
 
 buttons = [
-    ("My repositories active state ↗", "button_dev_state.svg"),
-    ("My repositories categorised ↗", "button_all_work.svg"),
+    ("Development State of My Repositories ↗", "button_dev_state.svg"),
+    ("Categorised List of My Repositories ↗", "button_all_work.svg"),
 ]
 
 bg = "#21283015"
