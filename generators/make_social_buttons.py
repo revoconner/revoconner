@@ -15,17 +15,17 @@ icon_dir = os.path.join(root, "images", "social_raw")
 
 # Fira Code / JetBrains Mono - point this at your install if the path differs
 font_candidates = [
-    r"C:\Windows\Fonts\FiraCodeNerdFont-VariableFont_wght.ttf",
-    os.path.expandvars(r"%LOCALAPPDATA%\Microsoft\Windows\Fonts\FiraCodeNerdFont-VariableFont_wght.ttf"),
-    r"C:\Windows\Fonts\FiraCodeNerdFont-VariableFont_wght.ttf",
-    os.path.expandvars(r"%LOCALAPPDATA%\Microsoft\Windows\Fonts\FiraCodeNerdFont-VariableFont_wght.ttf"),
+    r"C:\Windows\Fonts\FiraCodeNerdFontPropo-Retina.ttf",
+    os.path.expandvars(r"%LOCALAPPDATA%\Microsoft\Windows\Fonts\FiraCodeNerdFontPropo-Retina.ttf"),
+    r"C:\Windows\Fonts\FiraCodeNerdFontPropo-Retina.ttf",
+    os.path.expandvars(r"%LOCALAPPDATA%\Microsoft\Windows\Fonts\FiraCodeNerdFontPropo-Retina.ttf"),
 ]
 
 # icon file (in social_raw, chart excluded), button label
 buttons = [
     ("artstation.svg", "Artstation"),
     ("website.svg", "Website"),
-    ("paypal.svg", "Buy me a coffee"),
+
     ("linkedin.svg", "Linkedin"),
 ]
 
@@ -35,7 +35,8 @@ text_color_alt = "#007fe0"
 icon_color = "#58d8ff"   # forced on every icon, overrides their source fill
 
 border_lighten = 0.18    # how much brighter the border is than bg
-font_size = 30
+font_size = 22           # text label, ~75% of the icon size
+icon_ref_size = 30       # sets the icon + button height (icon stays larger)
 pad_x, pad_y = 28, 16
 gap = 16                 # space between icon and text
 radius = 14
@@ -57,11 +58,13 @@ def find_font():
             return path
     raise SystemExit("Font not found - install it or fix font_candidates.")
 
-fp = FontProperties(fname=find_font(), size=font_size)
+font_path = find_font()
+fp = FontProperties(fname=font_path, size=font_size)        # text label
+fp_icon = FontProperties(fname=font_path, size=icon_ref_size)  # icon/button height
 
-def measure(text):
+def measure(text, font):
     fig = plt.figure(dpi=dpi)
-    t = fig.text(0, 0, text, fontproperties=fp)
+    t = fig.text(0, 0, text, fontproperties=font)
     fig.canvas.draw()
     ext = t.get_window_extent()
     plt.close(fig)
@@ -77,15 +80,15 @@ def load_icon(path):
     vx, vy, vw, vh = (float(v) for v in re.split(r"[ ,]+", vb.strip()))
     return inner, (vx, vy, vw, vh)
 
-H = measure(ref)[1] + 2 * pad_y
-icon_size = measure(ref)[1]  # match icon height to the text height
+icon_size = measure(ref, fp_icon)[1]  # icon height, kept at the larger reference size
+H = icon_size + 2 * pad_y
 
 # preload icons and figure out the shared width from the widest icon+text group
 icons = {}
 for fname, label in buttons:
     inner, (vx, vy, vw, vh) = load_icon(os.path.join(icon_dir, fname))
     icon_w = icon_size * (vw / vh)
-    icons[fname] = (inner, (vx, vy, vw, vh), icon_w, measure(label)[0])
+    icons[fname] = (inner, (vx, vy, vw, vh), icon_w, measure(label, fp)[0])
 
 W = max(iw + gap + tw for _, _, iw, tw in icons.values()) + 2 * pad_x
 
@@ -106,7 +109,7 @@ def make_button(fname, label, color, out_dir):
                          facecolor=bg, edgecolor=border_color, linewidth=border_w)
     box.set_mutation_scale(1.0)
     ax.add_patch(box)
-    ax.text(start_x + icon_w + gap, H / 2, label, ha="left", va="center_baseline",
+    ax.text(start_x + icon_w + gap, H / 2, label, ha="left", va="center",
             fontproperties=fp, color=color)
 
     buf = io.StringIO()
