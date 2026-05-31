@@ -22,8 +22,8 @@ buttons = [
     ("My repositories categorised ↗", "button_all_work.svg"),
 ]
 
-bg = "#21283000"
-text_color = "#a155ff"   # GitHub link blue, ~5.9:1 contrast on bg (WCAG AA)
+bg = "#21283015"
+text_color = "#58d8ff"   # GitHub link blue, ~5.9:1 contrast on bg (WCAG AA)
 # alt text color
 text_color_alt = "#007fe0"
 
