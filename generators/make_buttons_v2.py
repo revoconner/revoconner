@@ -22,14 +22,19 @@ sub_font_path = r"C:\Windows\Fonts\verdana.ttf"
 # header, subheader, filename
 buttons = [
     ("Development State of My Repositories ↗", "Check out which ones are being worked on,maintained and abandoned", "button_dev_state.svg"),
-    ("Categorised List of My Repositories ↗", "A grouped categorized list -  game engine tools, dev tools, etc", "button_all_work.svg"),
+    ("Categorised List of My Repositories ↗", "Grouped under easy to find categories like dev tools, maya plugin, etc", "button_all_work.svg"),
 ]
 
 bg = "#00000000"
+#dark theme
 text_color = "#58d8ff"
-text_color_alt = "#007fe0"
 sub_text = "#000"          # subheader font color
 border_color = "#9d9d9d"   # border + subheader background
+#light theme
+text_color_alt = "#007fe0"
+border_color_alt = "#9d9d9d"   # border + subheader background
+sub_text_alt = "#000"          # subheader font color
+
 
 font_size = 30             # header
 sub_font_size = 20         # subheader, smaller to fit
