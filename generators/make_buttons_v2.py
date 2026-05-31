@@ -12,8 +12,8 @@ root = os.path.dirname(base)
 
 # Fira Code - point this at your install if the path differs
 font_candidates = [
-    r"C:\Windows\Fonts\FiraCodeNerdFont-Regular.ttf",
-    os.path.expandvars(r"%LOCALAPPDATA%\Microsoft\Windows\Fonts\FiraCodeNerdFont-Regular.ttf"),
+    r"C:\Windows\Fonts\JetBrainsMono-VariableFont_wght.ttf",
+    os.path.expandvars(r"%LOCALAPPDATA%\Microsoft\Windows\Fonts\JetBrainsMono-VariableFont_wght.ttf"),
     r"C:\Windows\Fonts\FiraCodeNerdFont-VariableFont_wght.ttf",
     os.path.expandvars(r"%LOCALAPPDATA%\Microsoft\Windows\Fonts\FiraCodeNerdFont-VariableFont_wght.ttf"),
 ]
@@ -27,13 +27,13 @@ buttons = [
 
 bg = "#00000000"
 #dark theme
-text_color = "#58d8ff"
+text_color = "#23c4ff"
 sub_text = "#000"          # subheader font color
 border_color = "#9d9d9d"   # border + subheader background
 #light theme
-text_color_alt = "#007fe0"
-border_color_alt = "#9d9d9d"   # border + subheader background
-sub_text_alt = "#000"          # subheader font color
+text_color_alt = "#b03b00"
+sub_text_alt = "#dadada"          # subheader font color
+border_color_alt = "#252525"   # border + subheader background
 
 
 font_size = 30             # header
