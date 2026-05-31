@@ -11,13 +11,12 @@ An artist turned dev, I try to fill the gap of UX in FOSS</h3>
 <a href="https://github.com/users/revoconner/projects/6/views/4">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/project_button/button_all_work.svg">
-    <img alt="charts repo status" width="40%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/project_button_alt/button_all_work.svg">
-  </picture>
-</a><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/separator.svg" height="auto" width="5%">
+    <img width="40%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/project_button_alt/button_all_work.svg">
+  </picture></a><img src="https://github.com/revoconner/revoconner/raw/refs/heads/main/images/combined/separator.svg" height="auto" width="5%">
 <a href="https://github.com/users/revoconner/projects/6/views/5">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/project_button/button_all_work.svg">
-    <img alt="charts repo status" width="40%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/project_button_alt/button_all_work.svg">
+    <img width="40%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/project_button_alt/button_all_work.svg">
   </picture>
 </a>
 </div>
@@ -25,10 +24,12 @@ An artist turned dev, I try to fill the gap of UX in FOSS</h3>
 <br><br>
 
 <div align="center">
+<table><tr><td>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/social/chart.svg">
-  <img width="90%" height="auto" alt="charts repo status" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/social_alt/chart.svg">
+  <img width="90%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/social_alt/chart.svg">
 </picture>
+</table></tr></td>
 </div>
 
 <br><br>
@@ -50,10 +51,4 @@ An artist turned dev, I try to fill the gap of UX in FOSS</h3>
 <br><br><br>
 </div>
 <br>
-
----
-
-
-
-
-
+<img width="100%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-1/images/banner/bottom_banner.svg" >
