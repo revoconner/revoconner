@@ -29,7 +29,7 @@ bg = "#00000000"
 #dark theme
 text_color = "#23c4ff"
 sub_text = "#000"          # subheader font color
-border_color = "#9d9d9d"   # border + subheader background
+border_color = "#cacaca"   # border + subheader background
 #light theme
 text_color_alt = "#b03b00"
 sub_text_alt = "#dadada"          # subheader font color
@@ -73,7 +73,7 @@ H = header_h + sub_h
 all_text = [(h, fp) for h, _, _ in buttons] + [(s, fp_sub) for _, s, _ in buttons]
 W = max(measure(t, f)[0] for t, f in all_text) + 2 * pad_x
 
-def make_button(header, sub, filename, color, out_dir):
+def make_button(header, sub, filename, head_color, sub_color, brdr_color, out_dir):
     fig = plt.figure(figsize=(W / dpi, H / dpi), dpi=dpi)
     ax = fig.add_axes([0, 0, 1, 1])
     ax.set_xlim(0, W)
@@ -87,31 +87,32 @@ def make_button(header, sub, filename, color, out_dir):
     ax.add_patch(shape)
 
     # lower band filled with border color, clipped to the rounded shape so corners match
-    band = Rectangle((0, 0), W, sub_h, facecolor=border_color, edgecolor="none")
+    band = Rectangle((0, 0), W, sub_h, facecolor=brdr_color, edgecolor="none")
     ax.add_patch(band)
     band.set_clip_path(shape)
 
     # one border around both stacks
     border = FancyBboxPatch((m, m), W - 2 * m, H - 2 * m,
                             boxstyle=f"round,pad=0,rounding_size={radius}",
-                            facecolor="none", edgecolor=border_color, linewidth=border_w)
+                            facecolor="none", edgecolor=brdr_color, linewidth=border_w)
     ax.add_patch(border)
 
     ax.text(W / 2, sub_h + header_h / 2, header, ha="center", va="center_baseline",
-            fontproperties=fp, color=color)
+            fontproperties=fp, color=head_color)
     ax.text(W / 2, sub_h / 2, sub, ha="center", va="center_baseline",
-            fontproperties=fp_sub, color=sub_text)
+            fontproperties=fp_sub, color=sub_color)
 
     out = os.path.join(out_dir, filename)
     fig.savefig(out, format="svg", transparent=True, pad_inches=0)
     plt.close(fig)
     print("Saved", out)
 
+# head color, sub color, border/band color, out dir
 variants = [
-    (text_color, os.path.join(root, "images", "project_button")),
-    (text_color_alt, os.path.join(root, "images", "project_button_alt")),
+    (text_color, sub_text, border_color, os.path.join(root, "images", "project_button")),
+    (text_color_alt, sub_text_alt, border_color_alt, os.path.join(root, "images", "project_button_alt")),
 ]
 
-for color, out_dir in variants:
+for head_color, sub_color, brdr_color, out_dir in variants:
     for header, sub, filename in buttons:
-        make_button(header, sub, filename, color, out_dir)
+        make_button(header, sub, filename, head_color, sub_color, brdr_color, out_dir)

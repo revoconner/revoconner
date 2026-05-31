@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-05-31T10:42:23.794125</dc:date>
+    <dc:date>2026-05-31T10:45:13.187266</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -42,7 +42,7 @@ L 2.5 85.5
 Q 2.5 99.5 16.5 99.5 
 L 16.5 99.5 
 z
-" clip-path="url(#pd430c81ee4)" style="fill: none"/>
+" clip-path="url(#p3750f0f06d)" style="fill: none"/>
    </g>
    <g id="patch_3">
     <path d="M 0 102 
@@ -50,7 +50,7 @@ L 768.125 102
 L 768.125 59 
 L 0 59 
 z
-" clip-path="url(#p223651d53f)" style="fill: #9d9d9d"/>
+" clip-path="url(#p6b0d638f74)" style="fill: #252525"/>
    </g>
    <g id="patch_4">
     <path d="M 16.5 99.5 
@@ -64,7 +64,7 @@ L 2.5 85.5
 Q 2.5 99.5 16.5 99.5 
 L 16.5 99.5 
 z
-" clip-path="url(#pd430c81ee4)" style="fill: none; stroke: #9d9d9d; stroke-width: 3; stroke-linejoin: miter"/>
+" clip-path="url(#p3750f0f06d)" style="fill: none; stroke: #252525; stroke-width: 3; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
     <!-- Categorised List of My Repositories ↗ -->
@@ -566,7 +566,7 @@ z
    </g>
    <g id="text_2">
     <!-- Grouped under easy to find categories like dev tools, maya plugin, etc -->
-    <g transform="translate(30.151562 88.146875) scale(0.2 -0.2)">
+    <g style="fill: #dadada" transform="translate(30.151562 88.146875) scale(0.2 -0.2)">
      <defs>
       <path id="Verdana-47" d="M 4506 344 
 Q 4125 169 3673 39 
@@ -1137,10 +1137,10 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="pd430c81ee4">
+  <clipPath id="p3750f0f06d">
    <rect x="0" y="0" width="768.125" height="102"/>
   </clipPath>
-  <clipPath id="p223651d53f">
+  <clipPath id="p6b0d638f74">
    <path d="M 16.5 99.5 
 L 751.625 99.5 
 Q 765.625 99.5 765.625 85.5 
