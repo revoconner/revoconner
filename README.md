@@ -3,7 +3,24 @@
 <img width="100%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/banner/top_banner.svg" >
 <br>
 <h3>Tech artist from the Himalayas. I fill the gap between plumbing and porcelain of digital world.</h3>
-<br>
+<a href="https://www.revoconner.com/">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/social/website.svg">
+<img width="20%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/social_alt/website.svg">
+</picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/separator.svg"><img alt="sep" width="10%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/separator.svg">
+</picture>
+<a href="https://www.artstation.com/revoconner">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/social/artstation.svg">
+<img width="20%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/social_alt/artstation.svg">
+</picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/separator.svg"><img alt="sep" width="10%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/separator.svg">
+</picture>
+<a href="https://www.linkedin.com/in/revoconner/">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/social/linkedin.svg">
+<img width="20%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/social_alt/linkedin.svg">
+</picture></a>
+<br><br>
 <img width="100%" height="auto" src="images/divider.svg">
 </div>
 
@@ -29,11 +46,7 @@
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/project_button/button_all_work.svg">
 <img width="47%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/project_button_alt/button_all_work.svg">
 </picture></a>
-</div>
-
-<br><br>
-
-<div align="center">
+<br>
 <img width="100%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/banner/bottom_banner.svg" >
 </div>
 

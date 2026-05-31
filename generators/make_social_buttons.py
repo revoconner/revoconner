@@ -30,7 +30,7 @@ buttons = [
 ]
 
 bg = "#21283015"
-text_color = "#58d8ff"   # GitHub link blue, ~5.9:1 contrast on bg (WCAG AA)
+text_color = "#ff7458"   # GitHub link blue, ~5.9:1 contrast on bg (WCAG AA)
 text_color_alt = "#007fe0"
 icon_color = "#58d8ff"   # forced on every icon, overrides their source fill
 
