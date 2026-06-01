@@ -3,7 +3,7 @@
 <img width="100%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/banner/top_banner.svg" >
 </div>
 
-<div id="user-content-toc">
+<div id="user-content-toc" align="center">
 <ul align="center" style="list-style: none;">
 <summary>
 <h1>Tech artist from the Himalayas</h1>
@@ -33,7 +33,7 @@
 <img width="100%" height="auto" src="images/divider.svg">
 </div>
 
-<div id="user-content-toc">
+<div id="user-content-toc" align="center">
 <ul align="center" style="list-style: none;">
 <summary>
 <h2>Organised state and list of my repositories</h2>
