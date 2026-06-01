@@ -26,7 +26,7 @@
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/social/chart.svg">
-  <img width="90%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/social_alt/chart.svg">
+  <img width="100%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/social_alt/chart.svg">
 </picture>
 </div>
 
@@ -34,13 +34,13 @@
 
 <div align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/project_button/button_dev_state.svg">
-<a href="https://github.com/users/revoconner/projects/6/views/4"><img width="47%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/project_button_alt/button_dev_state.svg"></a>
+<a href="https://github.com/users/revoconner/projects/6/views/4"><img width="394px" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/project_button_alt/button_dev_state.svg"></a>
 </picture><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/separator.svg"><img alt="sep" width="1%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/separator.svg">
 </picture>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/project_button/button_all_work.svg">
-<a href="https://github.com/users/revoconner/projects/6/views/5"><img width="47%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/project_button_alt/button_all_work.svg"></a>
-</picture>
+<a href="https://github.com/users/revoconner/projects/6/views/5"><img width="394px" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/project_button_alt/button_all_work.svg"></a>
+</picture><img alt="sep" width="1%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/separator.svg">
 <br>
 <img width="100%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/banner/bottom_banner.svg" >
 </div>
