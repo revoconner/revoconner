@@ -2,7 +2,6 @@
 <div align="center">
 <img width="100%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/banner/top_banner.svg" >
 </div>
-
 <div id="user-content-toc" align="center">
 <ul align="center" style="list-style: none;">
 <summary>
@@ -10,7 +9,6 @@
 </summary>
 </ul>
 </div>
-
 <div align="center">      
 <h3>I write code for the problems I encounter, when Google searches starts being useless.</h3>
 <br>
@@ -40,7 +38,7 @@
 </summary>
 </ul>
 </div>
-
+<br>
 <div align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/project_button/button_dev_state.svg">
 <a href="https://github.com/users/revoconner/projects/6/views/4"><img width="394px" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/project_button_alt/button_dev_state.svg"></a>
