@@ -18,14 +18,14 @@ font_candidates = [
 ]
 
 buttons = [
-    ("Development State of My Repositories ↗", "button_dev_state.svg"),
-    ("Categorised List of My Repositories ↗", "button_all_work.svg"),
+    ("My Repos — Active/Inactive State ↗", "button_dev_state.svg"),
+    ("My Repos — Categorized for Usage ↗", "button_all_work.svg"),
 ]
 
-bg = "#21283015"
-text_color = "#58d8ff"   # GitHub link blue, ~5.9:1 contrast on bg (WCAG AA)
+bg = "#262626"
+text_color = "#ffffff"   # GitHub link blue, ~5.9:1 contrast on bg (WCAG AA)
 # alt text color
-text_color_alt = "#007fe0"
+text_color_alt = "#ffffff"
 
 border_lighten = 0.18    # how much brighter the border is than bg
 font_size = 30
