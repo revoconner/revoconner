@@ -10,7 +10,7 @@
 </ul>
 </div>
 <div align="center">      
-<h3>I write code for the problems I encounter, when Google searches starts being useless.</h3>
+<h3>I pickup the IDE when existing solutions from google searches doesn't cater to my need. However, some CG tools were genuinely made as a better alternative to existing tools, in order to help fellow artists.</h3>
 <br>
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/social_alt/website.svg">
