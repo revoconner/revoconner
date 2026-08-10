@@ -32,34 +32,86 @@
 </div>
 
 <div id="user-content-toc" align="center">
-<ul align="center" style="list-style: none;">
-<summary>
-<h2>Organised state and list of my repositories</h2>
-</summary>
-</ul>
+<h2>Projects</h2>
 </div>
-<br>
-<div align="center">
-<picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/project_button_alt/button_dev_state.svg">
-<a href="https://github.com/users/revoconner/projects/6/views/4"><img width="394px" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/project_button/button_dev_state.svg"></a>
-</picture><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/separator.svg"><img alt="sep" width="1%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/separator.svg">
-</picture>
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/project_button_alt/button_all_work.svg">
-<a href="https://github.com/users/revoconner/projects/6/views/5"><img width="394px" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/project_button/button_all_work.svg"></a>
-</picture><img alt="sep" width="1%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/separator.svg">
+<br/>
+<div id="user-content-toc" align="left">
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/revoconner/ttyd-mobile"><b>TTYD-Mobile</b></a><br>
+Terminal useable for phones and touchscreen
+<br/><br/></td>
+<td width="50%" valign="top">
+<a href="https://github.com/revoconner/Felicity"><b>Felicity</b></a><br>
+A face recognition photo organizer for Windows built to be used by everyone
+<br/><br/></td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/revoconner/github-unlisted"><b>Github Unlisted</b></a><br>
+Share your private github repo with a unique configurable link. Just one branch, or all, releases or not, you decide
+<br/><br/></td>
+<td width="50%" valign="top">
+<a href="https://github.com/revoconner/Documentation-Image-Helper"><b>Documentation Helper</b></a><br>
+A quick editor markup built to make creating documentations a breeze
+<br/><br/></td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/revoconner/github-notify"><b>Github Notify</b></a><br>
+A desktop app that lives in your tray and notifies about new PR, Issues etc on just your owned repos without the noise of all others
+<br/><br/></td>
+<td width="50%" valign="top">
+<a href="https://github.com/revoconner/backblaze-exclusion-manager"><b>Backblaze Exclusion Manager</b></a><br>
+A small windows program to fine tune exclusion list for backblaze personal backup
+<br/><br/></td>
+</tr>
+</table>
+
+<br/>
+<div id="user-content-toc" align="center">
+<h2>CG Tools</h2>
 </div>
-<br><hr><br>
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/social_alt/chart.svg">
-<img width="100%" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/social/chart.svg">
-</picture>
-<br>
-<img width="100%" height="auto" src="images/divider.svg">
+<br/>
+<div id="user-content-toc" align="left">
+<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/revoconner/UV-Texture-Repacker"><b>UV Texture Repacker</b></a><br>
+A tool to repack textures for several 3D assets into one atlas, without any rebaking
+<br/><br/></td>
+<td width="50%" valign="top">
+<a href="https://github.com/revoconner/Maya-Neo-Shelf"><b>Maya Neo Shelf</b></a><br>
+A better replacement for Maya's shelves, with compatibility inbuilt
+<br/><br/></td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/revoconner/Unity-ShaderVariantTool"><b>Unity Shader Variant Collection Tool</b></a><br>
+A tool for managing and collecting shader variants efficiently and quickly for Unity Game Engine, no game runs needed
+<br/><br/></td>
+<td width="50%" valign="top">
+<a href="https://github.com/revoconner/Blender-UVshapekeys"><b>UV Shapekeys for Blender</b></a><br>
+Blender shapekeys based on UV layout, instead of vertex ID with different vertex numbers
+<br/><br/></td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/revoconner/Blender-Meshwalker"><b>Blender Meshwalker</b></a><br>
+Transfers world position of vertices from target to source, even with unequal number of vertices
+<br/><br/></td>
+<td width="50%" valign="top">
+<a href="https://github.com/revoconner/Unity-Meta-SDK-Anti-Occlusion"><b>Unity Meta SDK Anti Occlusion</b></a><br>
+An Anti-occlusion portal to place on glass surfaces for showing virtual scene behind real world glass panes without glitches
+<br/><br/></td>
+</tr>
+</table>
 </div>
-<br>
-<div align="center">
+<br/>
+<br/>
+<div id="user-content-toc" align="center">
 <h3>I hope my work was helpful to you. Get me to stay up nights so I can help out some more</h3>
 This is a paypal link, since "buy me a coffee" doesn't work where I live anymore.
 <br><br>
