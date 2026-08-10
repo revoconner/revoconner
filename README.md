@@ -40,7 +40,7 @@
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/revoconner/ttyd-mobile"><b>TTYD-Mobile</b></a><br>
-Terminal useable for phones and touchscreen
+TTYD now modified to be usable on phones and touchscreen
 <br/><br/></td>
 <td width="50%" valign="top">
 <a href="https://github.com/revoconner/Felicity"><b>Felicity</b></a><br>
@@ -50,7 +50,7 @@ A face recognition photo organizer for Windows built to be used by everyone
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/revoconner/github-unlisted"><b>Github Unlisted</b></a><br>
-Share your private github repo with a unique configurable link. Just one branch, or all, releases or not, you decide
+Share your private GitHub repo with a unique configurable link. Just one branch, or all, releases or not, you decide
 <br/><br/></td>
 <td width="50%" valign="top">
 <a href="https://github.com/revoconner/Documentation-Image-Helper"><b>Documentation Helper</b></a><br>
@@ -59,7 +59,7 @@ A quick editor markup built to make creating documentations a breeze
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/revoconner/github-notify"><b>Github Notify</b></a><br>
+<a href="https://github.com/revoconner/github-notify"><b>GitHub Notify</b></a><br>
 A desktop app that lives in your tray and notifies about new PR, Issues etc on just your owned repos without the noise of all others
 <br/><br/></td>
 <td width="50%" valign="top">
