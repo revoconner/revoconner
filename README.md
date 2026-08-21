@@ -109,14 +109,3 @@ An Anti-occlusion portal to place on glass surfaces for showing virtual scene be
 </tr>
 </table>
 </div>
-<br/>
-<br/>
-<div id="user-content-toc" align="center">
-<h3>I hope my work was helpful to you. Get me to stay up nights so I can help out some more</h3>
-This is a paypal link, since "buy me a coffee" doesn't work where I live anymore.
-<br><br>
-<picture >
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/social-alt/paypal.svg">
-<a href="https://paypal.me/revoconner"><img width="200px" height="auto" src="https://raw.githubusercontent.com/revoconner/revoconner/revoconner-patch-2/images/social/paypal.svg"></a>
-</picture>
-</div>
